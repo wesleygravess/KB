@@ -10,7 +10,7 @@ Check out our blog post [**here**](https://medium.com/@ShapeShift.com/shapeshift
 
 **1.** ATOM
 
-**2.** A Native wallet or KeepKey connected to app.shapeshift.com. Check out our guide on importing your mobile (native) wallet from mobile to web [**here**](https://app.gitbook.com/o/sWotiHVrGfDN75Cscxmv/s/72REb8nWCxIowqCRZG08/\~/changes/Yy1LhfBrdh6dq9PVc379/help-desk/app.shapeshift/import-your-seed-phrase-from-the-mobile-app-to-web).
+**2.** A Native wallet or KeepKey connected to app.shapeshift.com. Check out our guide on importing your mobile (native) wallet from mobile to web [**here**](https://app.gitbook.com/s/72REb8nWCxIowqCRZG08/help-desk/app.shapeshift/import-your-seed-phrase-from-the-mobile-app-to-web).
 
 #### Staking Cosmos (ATOM) On [**app.shapeshift.com**](https://app.shapeshift.com/dashboard)
 
@@ -52,7 +52,7 @@ Check out our blog post [**here**](https://medium.com/@ShapeShift.com/shapeshift
 
 **3.** Confirm the details are correct and select the amount of gas to pay. Click "Sign & Broadcast". Please note: _It will take 21 days to unlock your ATOM after you unstake your tokens._
 
-__![](<../../.gitbook/assets/image (5).png>)__
+![](<../../.gitbook/assets/image (5).png>)
 
 **4.** Lastly, click "Confirm and Broadcast" to complete the unstaking process.
 

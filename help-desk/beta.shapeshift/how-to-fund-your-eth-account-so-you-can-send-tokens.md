@@ -8,7 +8,7 @@ ShapeShift has integrated **Banxa** and [**Gem**](how-to-buy-sell-crypto-using-g
 
 ### How Do I Send Myself Some ETH?
 
-**1.** Make sure you have a wallet connected to beta.shapeshift.com&#x20;
+**1.** Make sure you have a wallet connected to beta.shapeshift.com
 
 ![](<../../.gitbook/assets/image (234).png>)
 
@@ -20,6 +20,6 @@ ShapeShift has integrated **Banxa** and [**Gem**](how-to-buy-sell-crypto-using-g
 
 **4.** Now that you have some ETH in your account, you can send any ERC20 token!
 
-&#x20;![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15).png>)
 
-_Using our mobile app? Please refer to this_ [_**link**._](https://app.gitbook.com/o/sWotiHVrGfDN75Cscxmv/s/72REb8nWCxIowqCRZG08/\~/changes/2wvzvgvhbZmmnifHbdRc/help-desk/mobile-app/how-to-receive)__
+_Using our mobile app? Please refer to this_ [_**link**._](https://app.gitbook.com/s/72REb8nWCxIowqCRZG08/help-desk/mobile-app/how-to-receive)\_\_
