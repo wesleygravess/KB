@@ -18,7 +18,7 @@
 
 **3.** Tally Ho has now been added to your Chrome extensions.
 
-![](<../../.gitbook/assets/image (41).png>)
+![](<../../.gitbook/assets/image (41) (1).png>)
 
 **4.** Choose how you would like to setup your wallet. (As always when creating a new wallet, make sure to backup your recovery sentence is a safe place, offline.)
 
@@ -32,7 +32,7 @@
 
 **2.** Select TallyHo from the list of compatible wallets.
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (37).png>)
 
 **3.** Click "Pair".
 

@@ -22,4 +22,4 @@ ShapeShift has integrated **Banxa** and [**Gem**](how-to-buy-sell-crypto-using-g
 
 ![](<../../.gitbook/assets/image (15) (1).png>)
 
-_Using our mobile app? Please refer to this_ [_**link**._](https://app.gitbook.com/s/72REb8nWCxIowqCRZG08/help-desk/mobile-app/how-to-receive)\_\_
+_Using our mobile app? Please refer to this_ [_**link**._](https://app.gitbook.com/s/72REb8nWCxIowqCRZG08/help-desk/mobile-app/how-to-receive)

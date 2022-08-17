@@ -1,7 +1,5 @@
 # 🤝 How Do I Add Accounts?
 
-
-
 If you have more than one account for a certain digital asset, you can add more accounts.
 
 First, click "Assets" from the left menu. Then, select the coin you want another account for. In this example, we will use BTC.
@@ -14,8 +12,7 @@ Click "+ Add Account".
 
 ![Screen\_Shot\_2021-01-19\_at\_4.15.37\_PM.png](https://shapeshift.zendesk.com/hc/article\_attachments/360020940280/Screen\_Shot\_2021-01-19\_at\_4.15.37\_PM.png)
 
-Select an account to add.\
-
+Select an account to add.
 
 ![](https://shapeshift.zendesk.com/hc/article\_attachments/360020944339/Screen\_Shot\_2021-01-19\_at\_4.15.53\_PM.png)
 

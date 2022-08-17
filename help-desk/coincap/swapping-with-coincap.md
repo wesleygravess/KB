@@ -54,4 +54,3 @@ Note: Clicking _the settings wheel on the swap page allows you to adjust the sli
 
 ![](<../../.gitbook/assets/image (108).png>)
 
-\_\_

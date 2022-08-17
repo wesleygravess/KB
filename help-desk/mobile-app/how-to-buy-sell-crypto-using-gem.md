@@ -10,7 +10,7 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 ![](<../../.gitbook/assets/image (80).png>)
 
-![](<../../.gitbook/assets/image (43).png>)
+![](<../../.gitbook/assets/image (43) (1).png>)
 
 **2.** Select Gem.
 

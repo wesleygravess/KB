@@ -28,7 +28,7 @@
 
 **2.** Select Keplr from the list of compatible wallets.
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../../.gitbook/assets/image (38).png>)
 
 **3.** Click "Pair".
 

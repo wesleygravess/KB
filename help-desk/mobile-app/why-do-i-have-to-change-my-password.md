@@ -14,5 +14,3 @@ The ShapeShift mobile app is a truly non-custodial wallet experience within an e
 In the future, we will have wallet back-up solutions, but keep in mind **changing passwords will not be an option**. So please safely store your password. Only your password and the recovery phrase you have access to when logged in can help you regain access to your accounts.
 
 Note: If you previously had a ShapeShift account, when you do change your password on the mobile app, you will also lose access to any unclaimed FOX and your transaction history. We recommend before signing into the mobile app, downloading your transaction history first and moving your FOX to your hardware or Portis wallet.
-
-\\

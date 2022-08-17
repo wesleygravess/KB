@@ -85,15 +85,15 @@ Follow the steps below to get FOXy and start earning FOX.
 
 **Withdraw** - remove your FOXy and any rewards accrued.
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (26).png>)
 
 **5.** Since we will be depositing FOX to get FOXy, click into the "Deposit" tab. Enter the amount of FOX to deposit and click "Continue".
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (21).png>)
 
 **6.** Approve the token on your wallet by paying the fee (in ETH). Click "Confirm".
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (34).png>)
 
 **7.** Confirm the deposit by clicking "Sign and Broadcast". Follow the prompts from your wallet to complete the deposit.
 
@@ -101,19 +101,19 @@ Follow the steps below to get FOXy and start earning FOX.
 
 **8.** Wait a few moments for the transaction to confirm.
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (19).png>)
 
 **9.** The transaction will confirm momentarily.
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (15).png>)
 
 **10.** That's it! You will now start earning FOXy. Go to the DeFi section/Overview tab to see your position.
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (22).png>)
 
 **11.** You can also see your FOXy in the Assets section. Remember, it is an ERC20 Token just like FOX.
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 ![foxy1.png](https://shapeshift.zendesk.com/hc/article\_attachments/5353438193165/foxy1.png)
 
@@ -123,19 +123,19 @@ Follow the steps below to get FOXy and start earning FOX.
 
 **1.** Enter the amount to withdraw and click "Continue".
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (40).png>)
 
 **2.** Approve the token transaction.
 
 **3.** Confirm the withdrawal by clicking "Sign and Broadcast".
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (25).png>)
 
 **4.** If you selected the Instant withdraw your FOXy will show up in your wallet right away.
 
 **5.** If you selected the slower/free method your FOXy will show a pending status with the amount of days until your FOXy is available.
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<../../.gitbook/assets/image (36).png>)
 
 ## FOX Farming - Add to Liquidity Pools and Staking Contract to Earn More FOX
 

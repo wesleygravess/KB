@@ -8,7 +8,7 @@
 
 **2.** Click "Share".
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
 **3.** Choose you want to share your Altfolio's full data (including coin amounts) or just the coins (no amount included).
 

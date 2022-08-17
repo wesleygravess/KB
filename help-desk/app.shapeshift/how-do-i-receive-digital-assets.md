@@ -2,13 +2,13 @@
 
 #### How To Receive
 
-**1.** Click "Assets" from the sidebar.&#x20;
+**1.** Click "Assets" from the sidebar.
 
-![](<../../.gitbook/assets/image (40).png>)
+![](<../../.gitbook/assets/image (40) (1).png>)
 
 **2.** From the asset list, select the asset you wish to receive. For this example we will be using ETH.
 
-![](<../../.gitbook/assets/image (38).png>)
+![](<../../.gitbook/assets/image (38) (1).png>)
 
 **3.** Click "Receive".
 

@@ -1,6 +1,6 @@
 # 🔭 How Do I Change The PIN On My KeepKey?
 
-#### You may need to change your PIN from time to time to stay safe! Keep in mind, if you forget your PIN you will have to wipe the device completely to reset it. The directions below require you to know your current PIN before changing it. If you have forgotten your PIN and can't access your KeepKey follow the steps laid out in this [article](how-do-i-recover-on-my-keepkey.md).&#x20;
+#### You may need to change your PIN from time to time to stay safe! Keep in mind, if you forget your PIN you will have to wipe the device completely to reset it. The directions below require you to know your current PIN before changing it. If you have forgotten your PIN and can't access your KeepKey follow the steps laid out in this [article](how-do-i-recover-on-my-keepkey.md).
 
 **1.** Make sure your KeepKey is plugged in and connected to [beta.shapeshift.com](https://beta.shapeshift.com/dashboard).
 
@@ -18,7 +18,7 @@
 
 ![c.png](https://shapeshift.zendesk.com/hc/article\_attachments/360013260859/c.png)
 
-**5a.** Be sure to use the cypher correctly when entering your PIN.&#x20;
+**5a.** Be sure to use the cypher correctly when entering your PIN.
 
 _Example: If you'd like to choose the number "6" you would have to click the top left box._
 
@@ -32,6 +32,6 @@ _Example: If you'd like to choose the number "6" you would have to click the top
 
 ![e.png](https://shapeshift.zendesk.com/hc/article\_attachments/360013260460/e.png)
 
-&#x20;_**8.** _ Unplug the KeepKey and plug it back in. That's it! You've successfully changed your PIN!
+**8.** Unplug the KeepKey and plug it back in. That's it! You've successfully changed your PIN!
 
 ![](https://shapeshift.zendesk.com/hc/article\_attachments/360013260480/f.png)

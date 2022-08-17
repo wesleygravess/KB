@@ -28,7 +28,7 @@
 
 **2.** Select XDEFI from the list of compatible wallets.
 
-![](<../../.gitbook/assets/image (28).png>)
+![](<../../.gitbook/assets/image (41).png>)
 
 **3.** Click "Pair".
 

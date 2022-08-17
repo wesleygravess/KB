@@ -12,7 +12,7 @@
 
 (Don't see your wallet? Consider letting our community know on [**Discord**](https://discord.com/invite/shapeshift).)
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
 **3.** Wallet successfully connected!
 
@@ -83,13 +83,13 @@ Receiving
 
 3\. Select the amount you want to send in either USDC amount, or select the \~$0.00 USD and can opt to send a USD amount.
 
-![](<../../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (17).png>)
 
 4\. Select the Transaction Fee you wish to pay, either Slow, Average or Fast, and Confirm the transaction in the send modal.&#x20;
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (28).png>)
 
 5\. Once the Transaction has been broadcast, a green toast will appear in the top right hand side. You can use the link in here to view the transaction on the blockchain. You will also be able to view the transaction now in the Recent Transactions or the Transaction History.&#x20;
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (33).png>)
 
