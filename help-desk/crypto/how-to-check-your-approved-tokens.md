@@ -1,8 +1,6 @@
 # ⚗ How to Check Your Approved Tokens
 
-Often times when staking ERC20 tokens, you will need to approve the token(s) first. [**Debank**](https://debank.com/) allows you to check which tokens have been approved on your particular wallet(s). This is helpful as there may be some approved tokens that you had forgotten about. You can also unapprove (or decline) these approved tokens if you'd like to. More information on why you need to approve tokens can be found [**here**](https://shapeshift.zendesk.com/hc/en-us/articles/360018501700-Why-Do-I-Need-To-Approve-Tokens-).
-
-&#x20;
+Often times when staking ERC20 tokens, you will need to approve the token(s) first. [**Debank**](https://debank.com/) allows you to check which tokens have been approved on your particular wallet(s). This is helpful as there may be some approved tokens that you had forgotten about. You can also unapprove (or decline) these approved tokens if you'd like to. More information on why you need to approve tokens can be found [**here**](why-do-i-need-to-approve-tokens.md).
 
 **1.** Go to [**debank.com**](https://debank.com/) and login to your wallet.
 
@@ -17,4 +15,3 @@ Often times when staking ERC20 tokens, you will need to approve the token(s) fir
 **4.** From here you will see a list of all of the approved tokens associated with the wallet you have connected. If you'd like to remove some approved tokens, click "decline" to terminate the approval. Your approved token list will look something like this:
 
 ![](<../../.gitbook/assets/image (181).png>)
-

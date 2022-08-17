@@ -4,13 +4,11 @@ You will need to recover your KeepKey if your device gets wiped or you may be wa
 
 {% embed url="https://www.youtube.com/watch?feature=emb_title&v=AwL5WNIK64A" %}
 
-**You can also follow this step by step guide below:**&#x20;
+**You can also follow this step by step guide below:**
 
 **1.** Make sure your KeepKey is plugged in and connected to [beta.shapeshift.com](https://beta.shapeshift.com/dashboard).
 
 **2.** You should now see two options, "Initialize KeepKey" and "Recover Wallet". Click "Recover Wallet".
-
-.
 
 ![](https://shapeshift.zendesk.com/hc/article\_attachments/360013261059/a1.png)
 
@@ -47,5 +45,3 @@ You will need to recover your KeepKey if your device gets wiped or you may be wa
 **10.** That's it! If successful, you will now see your balances displayed in the upper right hand side of the screen.
 
 ![a8.png](https://shapeshift.zendesk.com/hc/article\_attachments/360013260880/a8.png)
-
-**Please contact our** [**customer support team**](https://shapeshift.zendesk.com/hc/en-us/requests/new) **if you need help with any of these steps.**

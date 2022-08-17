@@ -2,7 +2,7 @@
 
 #### Is your Windows machine not detecting your KeepKey, Trezor, or Ledger?
 
-#### We have found that some machines do not have the appropriate default driver settings to successfully recognize a hardware wallet device on beta.shapeshift.com. Not to worry. We have a solution directly from the Windows to help.  The following will explain how to use a USB driver installer called Zadig.  Installing Zadig
+#### We have found that some machines do not have the appropriate default driver settings to successfully recognize a hardware wallet device on beta.shapeshift.com. Not to worry. We have a solution directly from the Windows to help. The following will explain how to use a USB driver installer called Zadig. Installing Zadig
 
 1\. To start, head over to [Zadig](https://zadig.akeo.ie/) Click "Zadig 2.4" and begin the installation.
 
@@ -20,7 +20,7 @@
 
 4\. You should now see that devices have been detected. Click the drop down caret and select "KeepKey Interface (Interface 0). **For this process, it is important to note that we are NOT going to select KeepKey U2F Interface (Interface 1).**
 
-****![](<../../.gitbook/assets/image (192).png>)****
+![](<../../.gitbook/assets/image (192).png>)
 
 **5.** To the right of the green arrow use the up or down arrow(s) to navigate to libusbK (v3.0.7.0).
 
@@ -36,7 +36,7 @@ Zadig should now look something like this:
 
 7\. The driver will begin to install.
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (19) (1).png>)
 
 ![](<../../.gitbook/assets/image (198).png>)
 

@@ -52,11 +52,11 @@ Check out our blog post [**here**](https://medium.com/@ShapeShift.com/shapeshift
 
 **3.** Confirm the details are correct and select the amount of gas to pay. Click "Sign & Broadcast". Please note: _It will take 21 days to unlock your ATOM after you unstake your tokens._
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 **4.** Lastly, click "Confirm and Broadcast" to complete the unstaking process.
 
-![](<../../.gitbook/assets/image (20) (1).png>)
+![](<../../.gitbook/assets/image (20).png>)
 
 _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 

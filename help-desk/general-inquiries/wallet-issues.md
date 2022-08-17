@@ -2,7 +2,7 @@
 
 ## I Can't View My Coins/Tokens In My Wallet
 
-This is meant to be a guide for all crypto wallets. If you are having issues with a specific ShapeShift balance, please reach out to our team [**here**](https://shapeshift.zendesk.com/hc/en-us/requests/new?ticket\_form\_id=360000158419).
+This is meant to be a guide for all crypto wallets.&#x20;
 
 Please make sure that your wallet is **fully synced to the latest block and up-to-date**. You may see a refresh icon on your wallet.
 

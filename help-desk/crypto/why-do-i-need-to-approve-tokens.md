@@ -1,6 +1,6 @@
 # ✅ Why Do I Need To Approve Tokens?
 
-A [decentralized exchange (“DEX”)](https://shapeshift.zendesk.com/hc/en-us/articles/360018516439) utilizes smart contracts to enable the trading _and_ sending of ERC20 tokens. You will have to approve tokens any time you need to give a smart contract permission to transfer an ERC20 token.
+A [decentralized exchange (“DEX”)](what-is-a-dex.md) utilizes smart contracts to enable the trading _and_ sending of ERC20 tokens. You will have to approve tokens any time you need to give a smart contract permission to transfer an ERC20 token.
 
 When a trade is facilitated through a DEX you need to first approve any token that you want to trade, which requires you to: 1) allow the smart contract to validate your token balance, and 2) permit it to transfer the amount of tokens that you wish to trade from your wallet. You only need to approve once per token you wish to trade/send per wallet, and each approval requires paying gas fees.
 
@@ -8,8 +8,8 @@ To approve just click on the trade button at the bottom center of the mobile app
 
 Tokens being approved on the ShapeShift Mobile App:
 
-![](<../../.gitbook/assets/image (91) (1).png>)
+![](<../../.gitbook/assets/image (91).png>)
 
 You can also approve tokens using third party wallets like Portis:
 
-![](<../../.gitbook/assets/image (18) (1).png>)
+![](<../../.gitbook/assets/image (18).png>)

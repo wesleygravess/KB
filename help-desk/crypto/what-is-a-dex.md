@@ -4,7 +4,7 @@
 
 **The process of executing a trade is completely autonomous and does not require any personal info or verification. You read that last part right; no more entering your email or other personal information before you can execute certain trades on ShapeShift.**
 
-![](<../../.gitbook/assets/image (13) (1).png>)
+![](<../../.gitbook/assets/image (13).png>)
 
 #### How Does This Work On ShapeShift?
 

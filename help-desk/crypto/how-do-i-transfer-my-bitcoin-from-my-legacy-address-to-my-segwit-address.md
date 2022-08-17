@@ -15,5 +15,3 @@ If you are trying to transfer your BTC from a Legacy address to a SegWit address
 11. On the next modal, click the "Send Bitcoin" button.
 12. Follow the instructions on your KeepKey to confirm and sign the transaction.
 13. When the transaction is confirmed on chain, all the BTC you sent will now be on your BTC SegWit address and ready to spend or HODL!
-
-If you need any help, please reach out to our [**Support Team**](https://shapeshift.zendesk.com/hc/en-us/requests/new)!

@@ -2,7 +2,7 @@
 
 If you are trying to connect your KeepKey to [**beta.shapeshift.com**](https://beta.shapeshift.com/) and are seeing "conflicting application" or "KeepKey busy", here are some troubleshooting steps you can try:
 
-**1.** Make sure you are using [**Google Chrome**](https://www.google.com/chrome/) or [**Brave**](https://brave.com/) browsers and that you only have one window of beta.shapeshift.com open and no other programs that are trying to connect to the KeepKey. The device can only be connected to one program at a time.&#x20;
+**1.** Make sure you are using [**Google Chrome**](https://www.google.com/chrome/) or [**Brave**](https://brave.com/) browsers and that you only have one window of beta.shapeshift.com open and no other programs that are trying to connect to the KeepKey. The device can only be connected to one program at a time.
 
 If you've tried step 1 and still see "KeepKey Busy" and are using a Windows machine, follow these instructions:
 
@@ -26,10 +26,6 @@ If you've tried step 1 and still see "KeepKey Busy" and are using a Windows mach
 
 **6.** Refresh [**beta.shapeshift.com** ](https://beta.shapeshift.com/)or restart your laptop/PC and attempt to reconnect your KeepKey.
 
-&#x20;
-
 _**NOTE: If you have previously paired your KeepKey to the ShapeShift Platform using different browsers (Chrome, Brave, Firefox, Edge, Safari, etc.) please make sure to also remove KeepKey from these other browsers following the same process and RESTART your laptop/PC BEFORE attempting to pair your KeepKey again using either Google Chrome and Brave which are the only supported browsers on the ShapeShift Platform.**_
 
-&#x20;
-
-#### If you are not seeing a "KeepKey Busy" message but need help getting your KeepKey setup please follow the steps listed [**here**](keepkey-set-up.md). Still need help? Our customer support team can be found [**here**](https://shapeshift.zendesk.com/hc/en-us/requests/new).
+#### If you are not seeing a "KeepKey Busy" message but need help getting your KeepKey setup please follow the steps listed [**here**](keepkey-set-up.md).&#x20;

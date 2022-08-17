@@ -4,7 +4,7 @@ First, make sure that the asset you intend to send has a balance in your wallet.
 
 Next, click “Send” at the top of the page.
 
-<img src="../../.gitbook/assets/image (25).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (25) (1).png" alt="" data-size="original">
 
 Select the asset you wish to send by either typing into the search bar or scrolling through the list. Then, click “Next”.
 
@@ -16,7 +16,7 @@ Enter the address and amount you would like to send. You can either enter the am
 
 Confirm that the address and amount you are about to send is correct. Click “Send \*Asset\*” (In this case, we would be clicking “Send Ethereum”).
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (21) (1).png>)
 
 You’re almost done! Enter your PIN and click “Submit”.
 

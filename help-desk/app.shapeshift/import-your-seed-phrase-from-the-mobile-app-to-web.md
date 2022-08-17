@@ -2,9 +2,9 @@
 
 #### How To Import Your Existing Mobile Wallet To Web
 
-If you already have a ShapeShift Mobile Wallet and would like to import the wallet to our web platform, follow the steps below.&#x20;
+If you already have a ShapeShift Mobile Wallet and would like to import the wallet to our web platform, follow the steps below.
 
-_**Important:**_** ** Make sure you are on the correct website before entering your 12 word recovery sentence/seed phrase. Entering your seed phrase on the wrong website can result in a loss of funds and/or a compromised wallet.
+_**Important:**_\*\* \*\* Make sure you are on the correct website before entering your 12 word recovery sentence/seed phrase. Entering your seed phrase on the wrong website can result in a loss of funds and/or a compromised wallet.
 
 Correct URL: ![url.png](https://shapeshift.zendesk.com/hc/article\_attachments/4414360394253/url.png)
 
@@ -26,7 +26,7 @@ Correct URL: ![url.png](https://shapeshift.zendesk.com/hc/article\_attachments/4
 **5.** Enter your seed phrase with a space between each word and click "Next".
 
 \
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (17) (1).png>)
 
 **6.** Enter a password to encrypt you wallet. **DO NOT FORGET YOUR PASSWORD.** Click "Next".
 

@@ -32,18 +32,18 @@
 
 **2.** Select TallyHo from the list of compatible wallets.
 
-![](<../../.gitbook/assets/image (86).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 **3.** Click "Pair".
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)
 
 **4.** From the popup, click "Connect".
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 **5.** That's it! Your Tally Ho wallet is now connected to ShapeShift! (You will see the Keplr logo in the top right hand side of [**app.shapeshift.com**](https://app.shapeshift.com/#/dashboard))
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (26) (1).png>)
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)

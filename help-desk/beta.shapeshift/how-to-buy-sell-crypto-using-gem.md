@@ -36,7 +36,7 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 ![](<../../.gitbook/assets/image (110).png>)
 
-**8.** Select the currency in which you will be making your purchase with, then enter the amount you wish to buy. It's easiest the enter the amount in your native currency and the crypto amount will auto-populate.&#x20;
+**8.** Select the currency in which you will be making your purchase with, then enter the amount you wish to buy. It's easiest the enter the amount in your native currency and the crypto amount will auto-populate.
 
 ![](<../../.gitbook/assets/image (85).png>)
 
@@ -50,7 +50,7 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 **11.** Once your desired payment method has been added click "Continue".
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (26).png>)
 
 **12.** You will be asked to enter your email address. A verification code will be sent to your inbox. Enter the verification code when prompted to do so.
 
@@ -88,7 +88,7 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 **3.** Select "Gem".
 
-****![](<../../.gitbook/assets/image (122).png>)****
+![](<../../.gitbook/assets/image (122).png>)
 
 **4.** Make sure you are on the "Sell" tab.
 
@@ -102,7 +102,7 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 ![](<../../.gitbook/assets/image (221).png>)
 
-**7.** Enter the amount you'd like to sell and click "Deposit to". The rate offered will be provided at the top. Note that rates are not provided by ShapeShift. If you have issues with the rate offered, do not continue with the sale as you will not be reimbursed once the transaction is complete.&#x20;
+**7.** Enter the amount you'd like to sell and click "Deposit to". The rate offered will be provided at the top. Note that rates are not provided by ShapeShift. If you have issues with the rate offered, do not continue with the sale as you will not be reimbursed once the transaction is complete.
 
 ![](<../../.gitbook/assets/image (64).png>)
 
@@ -110,7 +110,7 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 ![](<../../.gitbook/assets/image (143).png>)
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 **9.** Click "Continue". You will see the "Estimate" page with various details on your upcoming sale.
 
@@ -120,15 +120,12 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 ![](<../../.gitbook/assets/image (46).png>)
 
-**11.** Send the amount shown to the address displayed. Note that this address can **only be used once and sending the wrong coin/asset will result in a loss of funds.**&#x20;
+**11.** Send the amount shown to the address displayed. Note that this address can **only be used once and sending the wrong coin/asset will result in a loss of funds.**
 
-****![](<../../.gitbook/assets/image (62).png>)****
+![](<../../.gitbook/assets/image (62).png>)
 
 **12.** Once the funds have been received you will see the following message:
 
 ![](<../../.gitbook/assets/image (135).png>)
 
-You will receive an email from Gem with the transaction ID and other details about your sell order. Please allow up to 5 business days for your funds to show up in your account. If you have any questions, please contact Gem's customer support [**here**](https://gem.co/).&#x20;
-
-
-
+You will receive an email from Gem with the transaction ID and other details about your sell order. Please allow up to 5 business days for your funds to show up in your account. If you have any questions, please contact Gem's customer support [**here**](https://gem.co/).

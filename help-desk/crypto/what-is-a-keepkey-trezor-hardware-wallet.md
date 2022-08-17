@@ -2,7 +2,7 @@
 
 To use ShapeShift.com, you will need a hardware wallet. This begs the question: what _is_ a hardware wallet?
 
-A hardware wallet is often referred to as "cold storage". It is a device that can hold your assets for you. in a safe, secure manner. This physical device connects to your computer via a cord; most devices will not allow your private keys to interact with your hard drive or the internet. This is why it is a more secure option than many others, such as online wallets, mobile wallets, or desktop wallets.&#x20;
+A hardware wallet is often referred to as "cold storage". It is a device that can hold your assets for you. in a safe, secure manner. This physical device connects to your computer via a cord; most devices will not allow your private keys to interact with your hard drive or the internet. This is why it is a more secure option than many others, such as online wallets, mobile wallets, or desktop wallets.
 
 ### **KeepKey**
 

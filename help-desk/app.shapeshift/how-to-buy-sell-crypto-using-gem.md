@@ -18,9 +18,9 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 **4.** Select the cryptoasset you wish to purchase from the dropdown menu. Click "Continue".
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (1).png>)
 
-**5.** You will be taken to an external site run by Gem. Follow steps #8-16 under the Buy Crypto section as shown [**here**](https://shapeshift.zendesk.com/hc/en-us/articles/4409138474381-How-To-Buy-Sell-Crypto-Using-Gem-beta-shapeshift-com-).
+**5.** You will be taken to an external site run by Gem. Follow steps #3-7 under the Buy Crypto section as shown [**here**](../mobile-app/how-to-buy-sell-crypto-using-gem.md).
 
 ![](<../../.gitbook/assets/image (59).png>)
 
@@ -40,11 +40,8 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 ![](<../../.gitbook/assets/image (100).png>)
 
-**2.** You will be taken to an external site run by Gem. Follow steps #7-12 under the Sell Crypto section as shown [**here**](https://shapeshift.zendesk.com/hc/en-us/articles/4409138474381-How-To-Buy-Sell-Crypto-Using-Gem-beta-shapeshift-com-).
+**2.** You will be taken to an external site run by Gem. Follow steps #3-5 under the Sell Crypto section as shown [**here**](../mobile-app/how-to-buy-sell-crypto-using-gem.md).
 
 ![](<../../.gitbook/assets/image (63).png>)
 
-You will receive an email from Gem with the transaction ID and other details about your sell order. Please allow up to 5 business days for your funds to show up in your account. If you have any questions, please contact Gem's customer support [**here**](https://gem.co/).&#x20;
-
-
-
+You will receive an email from Gem with the transaction ID and other details about your sell order. Please allow up to 5 business days for your funds to show up in your account. If you have any questions, please contact Gem's customer support [**here**](https://gem.co/).

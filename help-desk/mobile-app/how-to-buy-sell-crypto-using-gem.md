@@ -54,11 +54,9 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 **4.** Select the type of crypto you will be selling along with the amount. Add your bank account by clicking "Deposit to". Click "Continue".
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 **5.** Follow the steps until you get to a screen with a deposit address. This address is where you will be sending your crypto to. Once Gem receives your crypto, the process of having the funds sent to your bank will begin. It can take 3-5 business days for the funds to show up in your account. Be sure to send the exact amount specified (no more, no less).
-
-
 
 Any issues can be directed to Gem's customer support by visiting [**https://gem.co/**](https://gem.co/)and clicking the chat icon on the bottom right hand side of the page.
 

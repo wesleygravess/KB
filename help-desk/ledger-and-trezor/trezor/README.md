@@ -66,14 +66,14 @@ Select the asset you intend to receive.
 
 ![](https://shapeshift.zendesk.com/hc/article\_attachments/360007543699/Screen\_Shot\_2019-12-30\_at\_10.11.09\_PM.png)
 
-Verify that the address displayed on the Platform matches the one on your Trezor. Click the eye icon to “Show on Wallet”. Your Trezor should now display the address. Confirm on your device that the address is correct.&#x20;
+Verify that the address displayed on the Platform matches the one on your Trezor. Click the eye icon to “Show on Wallet”. Your Trezor should now display the address. Confirm on your device that the address is correct.
 
 You will now see that the address has been verified on your wallet.
 
 ![](https://shapeshift.zendesk.com/hc/article\_attachments/360007543719/Screen\_Shot\_2019-12-30\_at\_10.12.01\_PM.png)
 
-Either manually copy the address or simply click the “Copy Address” button.&#x20;
+Either manually copy the address or simply click the “Copy Address” button.
 
-Additionally, you can scan the QR code if you are sending funds from a mobile device.&#x20;
+Additionally, you can scan the QR code if you are sending funds from a mobile device.
 
 You’re ready to receive funds!

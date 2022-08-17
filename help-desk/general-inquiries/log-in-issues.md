@@ -21,5 +21,3 @@ If you cannot log into to our platform, please make sure that you have checked t
 * **Did I clear my cache/cookies?** Try [**clearing your cache**](https://kb.iu.edu/d/ahic) \*\*\*\* and see if you are able to log in afterward.\
 
 * **Are my time and date set correctly in my 2FA app?** If the time or date is incorrect, you will need to do is re-sync it in your Authenticator app. [**This article**](https://support.google.com/accounts/answer/185834?hl=en) \*\*\*\* can help you.
-
-If you have checked all of these things and you still cannot log in, please [**reach out to our Support Team**.](https://shapeshift.zendesk.com/hc/en-us)

@@ -59,7 +59,7 @@
 * [🔐 KeepKey](help-desk/keepkey/README.md)
   * [⚒ KeepKey Set Up](help-desk/keepkey/keepkey-set-up.md)
   * [🎛 KeepKey Settings](help-desk/keepkey/keepkey-settings.md)
-  * [🔐 What is a KeepKey? Trezor? Hardware Wallet?](help-desk/keepkey/what-is-a-keepkey-trezor-hardware-wallet.md)
+  * [🔐 What is a KeepKey? Trezor? Hardware Wallet?](help-desk/crypto/what-is-a-keepkey-trezor-hardware-wallet.md)
   * [🪅 Purchase/Shipping/Return](help-desk/keepkey/purchase-shipping-return.md)
   * [🪡 Troubleshooting KeepKey](help-desk/keepkey/troubleshooting-keepkey.md)
   * [🌉 How To Use The KeepKey Bridge](help-desk/keepkey/how-to-use-the-keepkey-bridge.md)
@@ -77,8 +77,8 @@
   * [📖 Ledger](help-desk/ledger-and-trezor/ledger.md)
   * [📒 Ledger Is Busy](help-desk/ledger-and-trezor/ledger-is-busy.md)
   * [🔌 My Ledger Will Not Connect](help-desk/ledger-and-trezor/my-ledger-will-not-connect.md)
-  * [📔 Trezor](help-desk/ledger-and-trezor/trezor.md)
-  * [🔄 Trading on Trezor](help-desk/ledger-and-trezor/trading-on-trezor.md)
+  * [📔 Trezor](help-desk/ledger-and-trezor/trezor/README.md)
+  * [🔄 Trading on Trezor](help-desk/ledger-and-trezor/trezor/trading-on-trezor.md)
 * [📊 CoinCap](help-desk/coincap/README.md)
   * [📂 How to Share your Altfolio](help-desk/coincap/how-to-share-your-altfolio.md)
   * [👛 Swapping With CoinCap](help-desk/coincap/swapping-with-coincap.md)
@@ -133,7 +133,7 @@
   * [🎁 Transactions](help-desk/general-inquiries/transactions.md)
   * [🔤 What are Your Terms of Service?](help-desk/general-inquiries/what-are-your-terms-of-service.md)
   * [🎛 Why Can't I Send My ETH/ERC-20 Tokens?](help-desk/general-inquiries/why-cant-i-send-my-eth-erc-20-tokens.md)
-  * [👨💻 What Exchange Rate Do You Use?](help-desk/general-inquiries/what-exchange-rate-do-you-use.md)
+  * [💻 What Exchange Rate Do You Use?](help-desk/general-inquiries/what-exchange-rate-do-you-use.md)
 
 ## 🗺 Web Platform
 

@@ -20,6 +20,6 @@ ShapeShift has integrated **Banxa** and [**Gem**](how-to-buy-sell-crypto-using-g
 
 **4.** Now that you have some ETH in your account, you can send any ERC20 token!
 
-![](<../../.gitbook/assets/image (15) (1).png>)
+![](<../../.gitbook/assets/image (15).png>)
 
 _Using our mobile app? Please refer to this_ [_**link**._](https://app.gitbook.com/s/72REb8nWCxIowqCRZG08/help-desk/mobile-app/how-to-receive)\_\_

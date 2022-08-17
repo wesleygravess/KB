@@ -14,7 +14,7 @@ Choose your network (ETH or BNB) and select the wallet you wish to connect.
 
 Log into your wallet. Once connected, you will notice that your receive address is now where "Connect Wallet" used to be.
 
-![](<../../.gitbook/assets/image (27) (1).png>)
+![](<../../.gitbook/assets/image (27).png>)
 
 Clicking on the address allows you to:
 

@@ -14,9 +14,7 @@ description: How to set up your KeepKey device on beta.shapeshift.com
 
 {% embed url="https://www.youtube.com/watch?v=FO-k684Dti4" %}
 
-&#x20;
-
-&#x20;**You can also use the step by step guide below:**
+**You can also use the step by step guide below:**
 
 1\. Select "Connect A Wallet".
 
@@ -58,7 +56,7 @@ description: How to set up your KeepKey device on beta.shapeshift.com
 
 ![Screen\_Shot\_2019-07-03\_at\_2.40.56\_PM.png](https://shapeshift.zendesk.com/hc/article\_attachments/360002981399/Screen\_Shot\_2019-07-03\_at\_2.40.56\_PM.png)
 
-10\.  will now be prompted to disconnect and reconnect your KeepKey while holding the button. Follow the animated on-screen directions if you aren't sure how to do that.&#x20;
+10\. will now be prompted to disconnect and reconnect your KeepKey while holding the button. Follow the animated on-screen directions if you aren't sure how to do that.
 
 ![Screen\_Shot\_2019-07-03\_at\_2.45.20\_PM.png](https://shapeshift.zendesk.com/hc/article\_attachments/360002981419/Screen\_Shot\_2019-07-03\_at\_2.45.20\_PM.png)
 
@@ -100,11 +98,11 @@ description: How to set up your KeepKey device on beta.shapeshift.com
 
 ### **Initialize Your KeepKey**
 
-1.3. Now, it's time to initialize your KeepKey. You will notice below "Initialize" that you can also recover your account with a 12-word recovery phrase, but you will not have that if you're using it for the first time. If this _isn't_ your first time using KeepKey and you _would_ like to recover an existing wallet, please select that option instead and follow the onscreen directions.&#x20;
+1.3. Now, it's time to initialize your KeepKey. You will notice below "Initialize" that you can also recover your account with a 12-word recovery phrase, but you will not have that if you're using it for the first time. If this _isn't_ your first time using KeepKey and you _would_ like to recover an existing wallet, please select that option instead and follow the onscreen directions.
 
 ![Screen\_Shot\_2019-06-05\_at\_1.02.12\_PM.png](https://shapeshift.zendesk.com/hc/article\_attachments/360002652339/Screen\_Shot\_2019-06-05\_at\_1.02.12\_PM.png)
 
-&#x20;1.4. Once you've initialized your KeepKey, you can name add a Label to your device. This is essentially your KeepKey's name in the ShapeShift interface. Once you choose a name, click "Set Label".
+1.4. Once you've initialized your KeepKey, you can name add a Label to your device. This is essentially your KeepKey's name in the ShapeShift interface. Once you choose a name, click "Set Label".
 
 ![Screen\_Shot\_2019-06-05\_at\_1.02.36\_PM.png](https://shapeshift.zendesk.com/hc/article\_attachments/360002563620/Screen\_Shot\_2019-06-05\_at\_1.02.36\_PM.png)
 
@@ -137,8 +135,6 @@ description: How to set up your KeepKey device on beta.shapeshift.com
 Once you add digital assets, your dashboard will reflect your balances. If you have added a label to your KeepKey, your balances will reflect even after you disconnect your device.
 
 ![1getting.png](https://shapeshift.zendesk.com/hc/article\_attachments/360019432559/1getting.png)
-
-&#x20;
 
 ### **Sending and Receiving**
 
@@ -178,4 +174,3 @@ If you still need assistance using our platform, you can access our Help Center 
 
 You can also use [**this**](why-am-i-experiencing-connectivity-issues.md) troubleshooting article and video for more tips and tricks.
 
-If you cannot find what you are looking for in our Help Center, please [Submit a Request](https://shapeshift.zendesk.com/hc/en-us/requests/new?ticket\_form\_id=360000158419).

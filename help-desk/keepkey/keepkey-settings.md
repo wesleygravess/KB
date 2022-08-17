@@ -4,15 +4,15 @@ description: Information related to KeepKey settings a features
 
 # 🎛 KeepKey Settings
 
-### What are the ways that you can interact with KeepKey on [<mark style="color:blue;">app.shapeshift.com</mark>](https://www.app.shapeshift.com)<mark style="color:blue;"></mark>
+### What are the ways that you can interact with KeepKey on [<mark style="color:blue;">app.shapeshift.com</mark>](https://www.app.shapeshift.com)
 
-* [<mark style="color:blue;">Access KeepKey Settings</mark>](keepkey-settings.md#access-keepkey-settings)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Change the device label</mark>](keepkey-settings.md#change-the-device-label)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Change the PIN</mark>](keepkey-settings.md#change-the-pin)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Access advanced settings</mark>](keepkey-settings.md#access-advanced-settings)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Change the device timeout</mark>](keepkey-settings.md#change-the-device-timeout)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Enable passphrase</mark>](keepkey-settings.md#enable-passphrase)<mark style="color:blue;"></mark>
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Wipe device</mark>](keepkey-settings.md#wipe-device)<mark style="color:blue;"></mark>
+* [<mark style="color:blue;">Access KeepKey Settings</mark>](keepkey-settings.md#access-keepkey-settings)
+* [<mark style="color:blue;">Change the device label</mark>](keepkey-settings.md#change-the-device-label)
+* [<mark style="color:blue;">Change the PIN</mark>](keepkey-settings.md#change-the-pin)
+* [<mark style="color:blue;">Access advanced settings</mark>](keepkey-settings.md#access-advanced-settings)
+* [<mark style="color:blue;">Change the device timeout</mark>](keepkey-settings.md#change-the-device-timeout)
+* [<mark style="color:blue;">Enable passphrase</mark>](keepkey-settings.md#enable-passphrase)
+* [<mark style="color:blue;">Wipe device</mark>](keepkey-settings.md#wipe-device)
 
 Read more about the update [<mark style="color:blue;">**here**</mark>](https://shapeshift.com/library/shapeshifts-keepkey-support-grows).
 
@@ -25,10 +25,10 @@ Read more about the update [<mark style="color:blue;">**here**</mark>](https://s
 
 If the Bootloader and/or Firmware need to be updated, you will be prompted to update them here. If they are already updated the latest versions, you will see that it says "Up to date" along with the current version in green text (example: V7.2.1).
 
-### &#x20;Change the device label
+### Change the device label
 
 1. In wallet settings, click "Label". <img src="../../.gitbook/assets/label.png" alt="" data-size="line">
-2. Enter the new name for your device and click "Update label".&#x20;
+2. Enter the new name for your device and click "Update label".
 3. Hold down the button on your KeepKey to update the label.
 4. If successful, you will see this message: <img src="../../.gitbook/assets/KeepKey success msg.png" alt="" data-size="line">
 5. You can see now that the device label was successfully changed from "test" to "new label KeepKey".
@@ -66,7 +66,6 @@ If the Bootloader and/or Firmware need to be updated, you will be prompted to up
 1. Click "Wipe Device".
 2. **ONLY** wipe your KeepKey if you have the recovery phrase. Wiping the device without having access to the recovery phrase will mean that your funds are gone **FOREVER**.
 3. Confirm that you want to wipe the device by clicking the checkbox. If you are confident that you want to wipe the device, click "Wipe Device".
-4. Your KeepKey will now be back to the default settings. You will need to initialize the device to create a new wallet or recover the KeepKey using the recovery sentence to restore your wallet and access your funds. Follow the guide [<mark style="color:blue;">**here**</mark>](https://shapeshift.zendesk.com/hc/en-us/articles/360014555779-How-Do-I-Recover-On-My-KeepKey-) to recover your wallet.
+4. Your KeepKey will now be back to the default settings. You will need to initialize the device to create a new wallet or recover the KeepKey using the recovery sentence to restore your wallet and access your funds. Follow the guide [<mark style="color:blue;">**here**</mark>](how-do-i-recover-on-my-keepkey.md) to recover your wallet.
 
-_Note: Recovering is not available on_ [_<mark style="color:blue;">**app.shapeshift.com**</mark>_](https://app.shapeshift.com/dashboard#/dashboard) _at this time. You will need to use_ [_<mark style="color:blue;">**beta.shapeshift.com**</mark>_](https://beta.shapeshift.com/) _for this. Looking to initialize/setup your KeepKey? Follow the guide_ [_<mark style="color:blue;">**here**</mark>_](https://shapeshift.zendesk.com/hc/en-us/articles/360005605540-Getting-Started-with-beta-shapeshift-com-and-KeepKey)_._
-
+_Note: Recovering is not available on_ [_<mark style="color:blue;">**app.shapeshift.com**</mark>_](https://app.shapeshift.com/dashboard#/dashboard) _at this time. You will need to use_ [_<mark style="color:blue;">**beta.shapeshift.com**</mark>_](https://beta.shapeshift.com/) _for this. Looking to initialize/setup your KeepKey? Follow the guide_ [_<mark style="color:blue;">**here**</mark>_](keepkey-set-up.md)_._
