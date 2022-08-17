@@ -4,8 +4,6 @@
 
 \*This feature is not available for the CoinCap mobile app at this time. We recommend using Google Chrome as your web browser.
 
-&#x20;
-
 To get started, connect one of the compatible wallets to [**coincap.io**](https://coincap.io/). Click "Connect Wallet" from the homepage or click "Swap" and then "Connect Wallet".
 
 <img src="../../.gitbook/assets/image (241).png" alt="" data-size="original">
@@ -16,15 +14,13 @@ Choose your network (ETH or BNB) and select the wallet you wish to connect.
 
 Log into your wallet. Once connected, you will notice that your receive address is now where "Connect Wallet" used to be.
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (27) (1).png>)
 
 Clicking on the address allows you to:
 
-&#x20;
-
 1\. Copy the address
 
-2\. View the address on the corresponding blockchain&#x20;
+2\. View the address on the corresponding blockchain
 
 3\. Switch to a different wallet
 
@@ -56,6 +52,6 @@ That's it! Your wallet should update with the new coin/token balance shortly.
 
 Note: Clicking _the settings wheel on the swap page allows you to adjust the slippage percentage as well as which exchanges you'd like to use._
 
-__![](<../../.gitbook/assets/image (108).png>)__
+![](<../../.gitbook/assets/image (108).png>)
 
-__
+\_\_

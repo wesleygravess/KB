@@ -8,11 +8,11 @@
 
 ![](<../../.gitbook/assets/image (154).png>)
 
-**2.** Select from the list the wallet you want to connect.&#x20;
+**2.** Select from the list the wallet you want to connect.
 
 (Don't see your wallet? Consider letting our community know on [**Discord**](https://discord.com/invite/shapeshift).)
 
-![](<../../.gitbook/assets/image (172).png>)
+![](<../../.gitbook/assets/image (96).png>)
 
 **3.** Wallet successfully connected!
 
@@ -22,9 +22,9 @@ Creating A Wallet
 
 **1.** Click "Create one" at the bottom of the list of wallets. _This will create a ShapeShift wallet that is compatible with our website and mobile app._
 
-**2.** Click the eye icon to reveal your recovery phrase and write down the 12 words in numerical order and keep them in a safe place. _If you lose these 12 words you risk losing your funds. You can review standard security practices_ [_**here**_](https://shapeshift.zendesk.com/hc/en-us/articles/360060541332-General-Security-Reminders)_._
+**2.** Click the eye icon to reveal your recovery phrase and write down the 12 words in numerical order and keep them in a safe place. _If you lose these 12 words you risk losing your funds. You can review standard security practices_ [_**here**_](../security/general-security-reminders.md)_._
 
-**3.** __ Verify your recovery phrase by selecting the corresponding word (it will ask you to verify 3 words from your 12 word phrase).
+**3.** Verify your recovery phrase by selecting the corresponding word (it will ask you to verify 3 words from your 12 word phrase).
 
 ![](<../../.gitbook/assets/image (133).png>)
 
@@ -67,7 +67,7 @@ Receiving
 **1.** From the asset page you wish to receive, click the arrow that is pointing down.
 
 ![](<../../.gitbook/assets/image (137).png>)\
-**2.** Copy your receive address or scan use the scannable QR code.&#x20;
+**2.** Copy your receive address or scan use the scannable QR code.
 
 ![](<../../.gitbook/assets/image (45).png>)
 
@@ -79,6 +79,17 @@ Receiving
 
 **2.** Paste the address you are sending to and follow the steps to send the funds. _Always double check the address before sending. Funds sent to the wrong address can not be recovered._
 
-__![](<../../.gitbook/assets/image (33).png>)__
+![](<../../.gitbook/assets/image (33).png>)
 
-__
+3\. Select the amount you want to send in either USDC amount, or select the \~$0.00 USD and can opt to send a USD amount.
+
+![](<../../.gitbook/assets/image (12).png>)
+
+4\. Select the Transaction Fee you wish to pay, either Slow, Average or Fast, and Confirm the transaction in the send modal.&#x20;
+
+![](<../../.gitbook/assets/image (20).png>)
+
+5\. Once the Transaction has been broadcast, a green toast will appear in the top right hand side. You can use the link in here to view the transaction on the blockchain. You will also be able to view the transaction now in the Recent Transactions or the Transaction History.&#x20;
+
+![](<../../.gitbook/assets/image (13).png>)
+

@@ -36,8 +36,6 @@ Earn - Any staked assets along with the current $ value and current APY % will b
 
 ![](../../.gitbook/assets/overview5.png)
 
-
-
 ## How to Stake FOX and Earn FOXy
 
 \- Deposit FOX
@@ -52,9 +50,9 @@ Earn - Any staked assets along with the current $ value and current APY % will b
 
 FOXy is a proposed staking rewards system that allows FOX token holders the ability to stake FOX into a smart contract in order to receive rewards denominated in FOXy. **FOXy is an ERC20, rebasing token that is redeemable 1:1 with FOX tokens**. More information on FOXy can be found [**here**](https://snapshot.org/#/shapeshiftdao.eth/proposal/QmQFLXFJGbThVS1fAyXjrcs1HtQtCfenJtPHnJwFBXtn6i).
 
-**FOXy logo** **FOX logo**        &#x20;
+**FOXy logo** **FOX logo**
 
-![](<../../.gitbook/assets/image (243).png>)         ![](<../../.gitbook/assets/image (121).png>)                            &#x20;
+![](<../../.gitbook/assets/image (243).png>) ![](<../../.gitbook/assets/image (121).png>)
 
 #### What Do I Need In Order To Get FOXy?
 
@@ -85,17 +83,17 @@ Follow the steps below to get FOXy and start earning FOX.
 
 **Deposit** - here you can deposit FOX for FOXy to start earning passive rewards.
 
-**Withdraw** - remove your FOXy and any rewards accrued.&#x20;
+**Withdraw** - remove your FOXy and any rewards accrued.
 
-![foxstake2.png](https://shapeshift.zendesk.com/hc/article\_attachments/5352906679309/foxstake2.png)
+![](<../../.gitbook/assets/image (5).png>)
 
 **5.** Since we will be depositing FOX to get FOXy, click into the "Deposit" tab. Enter the amount of FOX to deposit and click "Continue".
 
-![foxstake3.png](https://shapeshift.zendesk.com/hc/article\_attachments/5353076066317/foxstake3.png)
+![](<../../.gitbook/assets/image (2).png>)
 
 **6.** Approve the token on your wallet by paying the fee (in ETH). Click "Confirm".
 
-![FOXstake4.png](https://shapeshift.zendesk.com/hc/article\_attachments/5353117433869/FOXstake4.png)
+![](<../../.gitbook/assets/image (9).png>)
 
 **7.** Confirm the deposit by clicking "Sign and Broadcast". Follow the prompts from your wallet to complete the deposit.
 
@@ -103,49 +101,43 @@ Follow the steps below to get FOXy and start earning FOX.
 
 **8.** Wait a few moments for the transaction to confirm.
 
-![foxstake6.png](https://shapeshift.zendesk.com/hc/article\_attachments/5353187155085/foxstake6.png)
+![](<../../.gitbook/assets/image (68).png>)
 
 **9.** The transaction will confirm momentarily.
 
-![foxstake7.png](https://shapeshift.zendesk.com/hc/article\_attachments/5353234545293/foxstake7.png)
+![](<../../.gitbook/assets/image (15).png>)
 
 **10.** That's it! You will now start earning FOXy. Go to the DeFi section/Overview tab to see your position.
 
-![foxstake9.png](https://shapeshift.zendesk.com/hc/article\_attachments/5353412008461/foxstake9.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 **11.** You can also see your FOXy in the Assets section. Remember, it is an ERC20 Token just like FOX.
 
-![foxy1.png](https://shapeshift.zendesk.com/hc/article\_attachments/5353438193165/foxy1.png)
+![](<../../.gitbook/assets/image (18).png>)
 
-![foxy2.png](https://shapeshift.zendesk.com/hc/article\_attachments/5353428367117/foxy2.png)
+![foxy1.png](https://shapeshift.zendesk.com/hc/article\_attachments/5353438193165/foxy1.png)
 
 #### Withdrawing FOXy
 
-_**Note:** _ You can remove your FOXy position at any time by going to the withdraw tab as seen in step 5. Instant withdraws come with a 2.5% FOXy fee. Waiting 7-14 days will let you withdraw without any FOXy fee.
+\_**Note:** \_ You can remove your FOXy position at any time by going to the withdraw tab as seen in step 5. Instant withdraws come with a 2.5% FOXy fee. Waiting 7-14 days will let you withdraw without any FOXy fee.
 
 **1.** Enter the amount to withdraw and click "Continue".
 
-![foxyupdate.png](https://shapeshift.zendesk.com/hc/article\_attachments/5690730298509/foxyupdate.png)
+![](<../../.gitbook/assets/image (27).png>)
 
 **2.** Approve the token transaction.
 
 **3.** Confirm the withdrawal by clicking "Sign and Broadcast".
 
-![foxyWithdraw.png](https://shapeshift.zendesk.com/hc/article\_attachments/6300534953741/foxyWithdraw.png)
+![](<../../.gitbook/assets/image (7).png>)
 
 **4.** If you selected the Instant withdraw your FOXy will show up in your wallet right away.
 
 **5.** If you selected the slower/free method your FOXy will show a pending status with the amount of days until your FOXy is available.
 
-![withdraw.png](https://shapeshift.zendesk.com/hc/article\_attachments/6300581734669/withdraw.png)
-
-#### If you have any questions please contact customer support [**here**](https://shapeshift.zendesk.com/hc/en-us/requests/new).
-
-
+![](<../../.gitbook/assets/image (91).png>)
 
 ## FOX Farming - Add to Liquidity Pools and Staking Contract to Earn More FOX
-
-
 
 Have you been HODLing FOX or perhaps recently claimed some FOX from our airdrop and would like to accumulate some more? Keep reading to find out how to add FOX to a liquidity pool which will increase your FOX bags!
 
@@ -157,34 +149,24 @@ Have you been HODLing FOX or perhaps recently claimed some FOX from our airdrop 
 
 ![v3.png](https://shapeshift.zendesk.com/hc/article\_attachments/4469878211341/v3.png)
 
-You will need to [**unstake your LP tokens**](https://shapeshift.zendesk.com/hc/en-us/articles/4404959328525-Removing-FOX-from-Liquidity-Pool-Unstaking-LP-token-) and add them to the new farming contract in order to continue earning rewards. You do **not** need to remove your liquidity.&#x20;
+You will need to [**unstake your LP tokens**](https://shapeshift.zendesk.com/hc/en-us/articles/4404959328525-Removing-FOX-from-Liquidity-Pool-Unstaking-LP-token-) and add them to the new farming contract in order to continue earning rewards. You do **not** need to remove your liquidity.
 
-&#x20;
-
-**Do I need to claim my farming rewards before February 22?**&#x20;
+**Do I need to claim my farming rewards before February 22?**
 
 When you unstake, you will be claiming your FOX farming rewards at the same time. This means you do not need two different actions for unstaking and claiming your rewards. Your bonus rewards will be deposited into your connected wallet.
 
 ![unstakereward.png](https://shapeshift.zendesk.com/hc/article\_attachments/4469921101325/unstakereward.png)
 
-&#x20;
-
 ![Screen\_Shot\_2021-07-13\_at\_12.08.21\_PM.png](https://shapeshift.zendesk.com/hc/article\_attachments/4404941871245/Screen\_Shot\_2021-07-13\_at\_12.08.21\_PM.png)
-
-&#x20;
 
 In this article we will show you how to stake your FOX and ETH to a FOX/ETH pool on the ShapeShift Mobile App as well as our external [**page**](http://shapeshift.com/shapeshift-decentralize-airdrop). Once your funds are staked in either place you can return to the app or the external [**page**](https://shapeshift.com/shapeshift-decentralize-airdrop) to view your earnings and withdraw your FOX at any time. To remove your staking position, you can reference this [**article**](https://shapeshift.zendesk.com/hc/en-us/articles/4404959328525).
 
-&#x20;
-
 **Table of Contents (click any option below to skip to that section):**
 
-* ****[**Adding funds to liquidity pool with mobile**](defi-section.md#h\_01fb075jwjd0ez3wyhgvhbmerh)****
-* ****[**Staking the LP token to “Farm FOX” with mobile**](defi-section.md#h\_01fb075z1tbvv6jaasfdhrgnzh)****
-* ****[**Adding funds to the liquidity pool on web**](defi-section.md#adding-liquidity-and-staking-your-fox-eth-lp-tokens-on-web)****
-* ****[**Staking the LP token to “Farm FOX” on web**](defi-section.md#h\_01fb076p1t51h8tqj1rb8n48vh)****
-
-&#x20;
+* [**Adding funds to liquidity pool with mobile**](defi-section.md#h\_01fb075jwjd0ez3wyhgvhbmerh)
+* [**Staking the LP token to “Farm FOX” with mobile**](defi-section.md#h\_01fb075z1tbvv6jaasfdhrgnzh)
+* [**Adding funds to the liquidity pool on web**](defi-section.md#adding-liquidity-and-staking-your-fox-eth-lp-tokens-on-web)
+* [**Staking the LP token to “Farm FOX” on web**](defi-section.md#h\_01fb076p1t51h8tqj1rb8n48vh)
 
 **What Do I Need?**
 
@@ -198,7 +180,7 @@ In this article we will show you how to stake your FOX and ETH to a FOX/ETH pool
 \
 **1.** From your Dashboard select “Earn”. From here click “WETH-FOX Liquidity. **Note that the APR % is subject to change and may be different in your app than what is shown in the screenshot below.**
 
-****![](<../../.gitbook/assets/image (232).png>)****
+![](<../../.gitbook/assets/image (232).png>)
 
 **2.** Click the > button in the WETH-FOX Liquidity Pool section.
 
@@ -228,9 +210,7 @@ In this article we will show you how to stake your FOX and ETH to a FOX/ETH pool
 
 ![Screen\_Shot\_2021-07-13\_at\_1.42.02\_PM.png](https://shapeshift.zendesk.com/hc/article\_attachments/4404952943117/Screen\_Shot\_2021-07-13\_at\_1.42.02\_PM.png)
 
-Congratulations! You have successfully added funds to the liquidity pool!&#x20;
-
-&#x20;
+Congratulations! You have successfully added funds to the liquidity pool!
 
 ### **Staking LP Tokens on Mobile** <a href="#h_01fb075z1tbvv6jaasfdhrgnzh" id="h_01fb075z1tbvv6jaasfdhrgnzh"></a>
 
@@ -250,13 +230,13 @@ Congratulations! You have successfully added funds to the liquidity pool!&#x20;
 
 ![Image\_from\_iOS\_\_3\_.png](https://shapeshift.zendesk.com/hc/article\_attachments/4405143438093/Image\_from\_iOS\_\_3\_.png)
 
-**5.**  Approve the FOX transaction.
+**5.** Approve the FOX transaction.
 
 ![Screen\_Shot\_2021-07-13\_at\_1.35.24\_PM.png](https://shapeshift.zendesk.com/hc/article\_attachments/4404952726029/Screen\_Shot\_2021-07-13\_at\_1.35.24\_PM.png)
 
 **6.** You will be shown a completion page once the transaction completes. ![Image\_from\_iOS\_\_5\_.png](https://shapeshift.zendesk.com/hc/article\_attachments/4405143471757/Image\_from\_iOS\_\_5\_.png)
 
-**7.** Congratulations!  You have successfully staked your LP tokens.  Make sure to check back in the "Farming" section to check on your rewards!
+**7.** Congratulations! You have successfully staked your LP tokens. Make sure to check back in the "Farming" section to check on your rewards!
 
 ### **Web:**
 
@@ -273,23 +253,21 @@ Congratulations! You have successfully added funds to the liquidity pool!&#x20;
 
 **3**. For this example we used Portis. Click “Provide Liquidity on UNISwap” to proceed. **Note that the APR percentage will change frequently. You may see a different percentage from the screenshots provided below.**
 
-****![](<../../.gitbook/assets/image (35).png>)****
+![](<../../.gitbook/assets/image (35).png>)
 
 **4**. Enter the amount of FOX you will be adding to the LP (Liquidity Pool). It will automatically calculate the ETH equivalent. Click “Supply”.
 
 ![readd.png](https://shapeshift.zendesk.com/hc/article\_attachments/4411019393677/readd.png)
 
-&#x20;
+**5**. Confirm the amount of liquidity you will be adding by selecting “Confirm Supply”. Wait for confirmation.
 
-**5**. Confirm the amount of liquidity you will be adding by selecting “Confirm Supply”. Wait for confirmation.                                                                  &#x20;
-
-****![](<../../.gitbook/assets/image (151).png>)****
+![](<../../.gitbook/assets/image (151).png>)
 
 **6**. That’s it! You’ve successfully added to the FOX liquidity pool and can now stake your LP Tokens.
 
 ### **Staking The LP Token** <a href="#h_01fb076p1t51h8tqj1rb8n48vh" id="h_01fb076p1t51h8tqj1rb8n48vh"></a>
 
-**1.** Once you have unstaked your LP Tokens from the old contract and your funds (ETH,FOX) still remain in the liquidity pool, the [**FOX Farming page**](https://fox.shapeshift.com/fox-farming/staking/rewards) will look like this:&#x20;
+**1.** Once you have unstaked your LP Tokens from the old contract and your funds (ETH,FOX) still remain in the liquidity pool, the [**FOX Farming page**](https://fox.shapeshift.com/fox-farming/staking/rewards) will look like this:
 
 **1a**. Under "Farming Opportunities" (ETH-FOX V2), select "Get Started" and then "Approve".
 
@@ -311,29 +289,17 @@ Congratulations! You have successfully added funds to the liquidity pool!&#x20;
 
 ![](https://shapeshift.zendesk.com/hc/article\_attachments/4411029471629/congrats.png)
 
-
-
 ## Special Case for XDefi Wallet Users
 
+If you are claiming or staking using XDefi and also have MetaMask extension installed in your browser, please note you will need to make some changes to your XDefi wallet settings to proceed.
 
-
-If you are claiming or staking using XDefi and also have MetaMask extension installed in your browser, please note you will need to make some changes to your XDefi wallet settings to proceed.&#x20;
-
-
-
-Go into the Xdefi wallet settings, turn both injection and “as Metamask” on.  Then come back to the [**fox.shapeshift.com/airdrop**](http://fox.shapeshift.com/airdrop) or [**fox.shapeshift.com/fox-farming**](http://fox.shapeshift.com/fox-farming) and select “Metamask” as their wallet to connect using onboard.js.
-
-
+Go into the Xdefi wallet settings, turn both injection and “as Metamask” on. Then come back to the [**fox.shapeshift.com/airdrop**](http://fox.shapeshift.com/airdrop) or [**fox.shapeshift.com/fox-farming**](http://fox.shapeshift.com/fox-farming) and select “Metamask” as their wallet to connect using onboard.js.
 
 Screens on how to enable those Xdefi wallet settings are below:
-
-&#x20;
 
 ![](https://shapeshift.zendesk.com/hc/article\_attachments/4404942407437/Screen\_Shot\_2021-07-12\_at\_2.35.15\_PM.png)
 
 Additionally, if you are unable to connect a wallet because XDefi was connected earlier, clear your cache on your browser and try again.
-
-
 
 ## What is Yearn Finance?
 
@@ -343,7 +309,7 @@ _source:_ [_**yearn.finance**_](https://docs.yearn.finance/getting-started/intro
 
 #### Getting Started With Yearn Vaults
 
-ShapeShift's newest dapp ([**app.shapeshift.com**](https://app.shapeshift.com/defi/)) has integrated with Yearn Vaults which allows you to _earn_ passive income by staking your assets or depositing them into a DeFi strategy.&#x20;
+ShapeShift's newest dapp ([**app.shapeshift.com**](https://app.shapeshift.com/defi/)) has integrated with Yearn Vaults which allows you to _earn_ passive income by staking your assets or depositing them into a DeFi strategy.
 
 **1.** Head over to the DeFi section of [**app.shapeshift.com**](https://app.shapeshift.com/defi/).
 

@@ -2,7 +2,7 @@
 description: Tutorial of how to trade on app.shapeshift
 ---
 
-# 📈 How To Tade
+# 📈 How To Trade
 
 ### Trading On app.shapeshift.com
 
@@ -12,13 +12,15 @@ description: Tutorial of how to trade on app.shapeshift
 
 **2.** Click "Connect Wallet".
 
-![1.1.png](https://shapeshift.zendesk.com/hc/article\_attachments/4417990698381/1.1.png)
+****![](<../../.gitbook/assets/image (24).png>)****
+
+****
 
 **3.** Select the wallet you wish to connect. For this example we will be using [**MetaMask**](https://metamask.io/download/).
 
-![1.2.png](https://shapeshift.zendesk.com/hc/article\_attachments/4417996414093/1.2.png)
+![](<../../.gitbook/assets/image (93).png>)
 
-**4.** Follow the prompts to connect your desired wallet. Once connected, you will see your wallet at the top right of the page.&#x20;
+**4.** Follow the prompts to connect your desired wallet. Once connected, you will see your wallet at the top right of the page.
 
 ![mm1.png](https://shapeshift.zendesk.com/hc/article\_attachments/4417990813581/mm1.png)
 
@@ -36,6 +38,5 @@ description: Tutorial of how to trade on app.shapeshift
 
 **8.** Follow the prompts on your wallet to initiate the trade.
 
-&#x20;
+Complete! Your newly acquired cryptoasset should arrive in your wallet momentarily.
 
-Complete! Your newly acquired cryptoasset should arrive in your wallet momentarily. Any questions can be directed to our customer support team [**here**](https://shapeshift.zendesk.com/hc/en-us/requests/new).

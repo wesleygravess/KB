@@ -1,6 +1,4 @@
-# 🇶🇦 How to Understand the New Data on CoinCap
-
-
+# 💿 How to Understand the New Data on CoinCap
 
 CoinCap offers more easy ways to understand the markets.
 
