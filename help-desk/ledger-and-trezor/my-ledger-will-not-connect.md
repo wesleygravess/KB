@@ -38,7 +38,7 @@ Bitcoin Cash is not supported on the Nano S or Nano X.
 
 Here is the official troubleshooting solution from Ledger: [https://github.com/LedgerHQ/ledgerjs/tree/master/packages/hw-transport-webusb](https://github.com/LedgerHQ/ledgerjs/tree/master/packages/hw-transport-webusb)
 
-_The problem is with Windows. It doesn't play well with any devices that speak WebUSB including Trezor and KeepKey. The work around until Microsoft addresses this issue is to use_[ _Zadig_ ](replacing-your-driver-using-zadig.md)_to change your driver so it speaks WebUSB._
+_The problem is with Windows. It doesn't play well with any devices that speak WebUSB including Trezor and KeepKey. The work around until Microsoft addresses this issue is to use_[ _Zadig_ ](../beta.shapeshift/replacing-your-driver-using-zadig.md)_to change your driver so it speaks WebUSB._
 
 ####
 

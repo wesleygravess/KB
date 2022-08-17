@@ -8,14 +8,13 @@
 
 **How much can I purchase at once?** Banxa allows you to purchase anywhere from $30-$10000 worth of crypto at a time.\
 \
-**The chart pictured below was updated as of March 2021:**\
-
+**The chart pictured below was updated as of March 2021:**
 
 ![](https://shapeshift.zendesk.com/hc/article\_attachments/360092499771/Screen\_Shot\_2021-04-14\_at\_4.28.12\_PM.png)
 
 ### Requirements
 
-\- To see if your country is eligible, click [here.](https://shapeshift.zendesk.com/hc/en-us/articles/360014714359)
+\- To see if your country is eligible, click [here.](https://app.gitbook.com/o/sZuMvLgongLjnqDgwXZF/s/bGC6bBNTW1bq0h9qr1TZ/\~/changes/m6tj5FxYIP8ItKhc2EtT/help-desk/crypto/what-countries-are-supported-by-banxa)
 
 \- Debit card must have a exp date and CVC code (3-4 digit code).
 
@@ -37,13 +36,11 @@
 
 ![](https://shapeshift.zendesk.com/hc/article\_attachments/360013495119/Screen\_Shot\_2020-06-24\_at\_2.07.24\_PM.png)
 
-&#x20;
-
 5\. Enter your email and phone number. A verification code will be sent to your phone via SMS. Enter the code and continue.
 
 6\. Follow the steps to verify your identity (you only need to do this once).
 
-7\. Enter your debit card information and complete the purchase. An email with your Order ID will be sent to you shortly after completing the purchase.&#x20;
+7\. Enter your debit card information and complete the purchase. An email with your Order ID will be sent to you shortly after completing the purchase.
 
 ![](https://shapeshift.zendesk.com/hc/article\_attachments/360013495259/Screen\_Shot\_2020-06-24\_at\_2.18.13\_PM.png)
 

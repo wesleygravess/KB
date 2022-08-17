@@ -36,7 +36,7 @@ Zadig should now look something like this:
 
 7\. The driver will begin to install.
 
-![](<../../.gitbook/assets/image (19) (1).png>)
+![](<../../.gitbook/assets/image (19).png>)
 
 ![](<../../.gitbook/assets/image (198).png>)
 

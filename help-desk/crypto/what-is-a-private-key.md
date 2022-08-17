@@ -6,7 +6,7 @@ The private key is crucial to assure that your coins are kept safe. It is the co
 
 The private key is the alphanumeric string that gives you personal access to your digital assets.
 
-Because of this, you should _**NEVER**_** ** share your private key with anyone else and you should _**NEVER**_** ** store your private key online.
+Because of this, you should _**NEVER**_\*\* \*\* share your private key with anyone else and you should _**NEVER**_\*\* \*\* store your private key online.
 
 A public key _can_ be used publicly and is expressed, at times, as a wallet address. The private key, however, is something that should never be shared with another party. Here is what to remember about your private key:
 
@@ -26,8 +26,7 @@ You _**SHOULD**_ keep it:
 * On a **laminated sheet of paper and kept in a safe inaccessible to others.**
 * In a **safety deposit box.**
 
-If you are interested in a more **technical explanation**, you may learn more [**here**](https://blog.wetrust.io/why-do-i-need-a-public-and-private-key-on-the-blockchain-c2ea74a69e76)**.**\
-
+If you are interested in a more **technical explanation**, you may learn more [**here**](https://blog.wetrust.io/why-do-i-need-a-public-and-private-key-on-the-blockchain-c2ea74a69e76)**.**
 
 ### **Recovery Seed**
 

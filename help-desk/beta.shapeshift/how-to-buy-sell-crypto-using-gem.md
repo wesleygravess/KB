@@ -50,11 +50,11 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 **11.** Once your desired payment method has been added click "Continue".
 
-![](<../../.gitbook/assets/image (46).png>)
+![](../../.gitbook/assets/image.png)
 
 **12.** You will be asked to enter your email address. A verification code will be sent to your inbox. Enter the verification code when prompted to do so.
 
-![](<../../.gitbook/assets/image (31) (1).png>)
+![](<../../.gitbook/assets/image (31).png>)
 
 ![](<../../.gitbook/assets/image (186).png>)
 
@@ -110,7 +110,7 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 ![](<../../.gitbook/assets/image (143).png>)
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 **9.** Click "Continue". You will see the "Estimate" page with various details on your upcoming sale.
 
@@ -118,7 +118,7 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 **10.** If everything looks accurate, click "Make A Payment".
 
-![](<../../.gitbook/assets/image (46) (1).png>)
+![](<../../.gitbook/assets/image (46).png>)
 
 **11.** Send the amount shown to the address displayed. Note that this address can **only be used once and sending the wrong coin/asset will result in a loss of funds.**
 

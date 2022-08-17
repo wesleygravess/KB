@@ -16,7 +16,7 @@
 
 **3.** Choose whether to create a new wallet, restore a wallet, or connect a hardware wallet.
 
-![](<../../.gitbook/assets/image (37) (1).png>)
+![](<../../.gitbook/assets/image (37).png>)
 
 **4.** Once you get your 12 word recovery sentence and store it securely offline, the XDEFI wallet will be added to your Chrome extensions.
 
@@ -28,7 +28,7 @@
 
 **2.** Select XDEFI from the list of compatible wallets.
 
-![](<../../.gitbook/assets/image (41).png>)
+![](<../../.gitbook/assets/image (57).png>)
 
 **3.** Click "Pair".
 

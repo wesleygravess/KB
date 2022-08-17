@@ -12,7 +12,7 @@ When you execute a trade with ShapeShift, you will see a field titled "Rate". Be
 
 Depending on the token pair you select, the trade will be completed through THORChain\* or 0x\* (more DEX aggregators coming soon). This allows our users to have access to trading over 1,000 different crypto assets!
 
-![](<../../.gitbook/assets/image (84).png>)
+![](<../../.gitbook/assets/image (84) (1).png>)
 
 ![](<../../.gitbook/assets/image (187).png>)
 
@@ -62,6 +62,6 @@ Slippage is neither a pro or con, but important nonetheless. Since market prices
 
 Every order (as well as alteration and cancellation) is written to the blockchain. If the parameters are not met your trade will fail and the funds will be reverted to your wallet. Keep in mind that the miner fee that was initially paid is not returned in the case of a failed trade. The higher the miner fee and slippage % you set the less likely your trade is to fail. Since DEX's are decentralized this means no more contacting customer support and having to wait for a refund- as refunds should automatically process!
 
-![](<../../.gitbook/assets/image (111).png>)
+![](<../../.gitbook/assets/image (111) (1).png>)
 
 More information on DEXes can be found [**here**](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex#defining-decentralized-exchanges).

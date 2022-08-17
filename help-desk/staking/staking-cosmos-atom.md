@@ -4,7 +4,7 @@
 
 Check out our blog post [**here**](https://medium.com/@ShapeShift.com/shapeshift-integrates-cosmos-functionality-for-native-wallet-users-6974c03086ad) to learn more.
 
-![](<../../.gitbook/assets/image (30) (1).png>)
+![](<../../.gitbook/assets/image (30).png>)
 
 #### What Do I Need In Order To Stake ATOM on ShapeShift?
 
@@ -24,15 +24,15 @@ Check out our blog post [**here**](https://medium.com/@ShapeShift.com/shapeshift
 
 **3.** Go to the "Deposit" tab and enter the amount of ATOM you would like to stake. Click "Continue".
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (111).png>)
 
 **4.** Confirm the details are correct and select the amount of gas to pay. Click "Sign & Broadcast".
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (134).png>)
 
 **5.** That's it! You will see a Transaction ID when your ATOM has been successfully staked. You don't have to do anything else, besides click "View Position" or X out of modal.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (162).png>)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -40,19 +40,19 @@ Check out our blog post [**here**](https://medium.com/@ShapeShift.com/shapeshift
 
 **1.** Follow steps 1 and 2 listed above and click the "Withdraw" tab.
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (214).png>)
 
 **2.** Enter the amount you wish to unstake. Click "Continue".
 
-![](<../../.gitbook/assets/image (29).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 **3.** Confirm the details are correct and select the amount of gas to pay. Click "Sign & Broadcast". Please note: _It will take 21 days to unlock your ATOM after you unstake your tokens._
 
-__![](<../../.gitbook/assets/image (35).png>)__
+__![](<../../.gitbook/assets/image (150).png>)__
 
 **4.** Lastly, click "View Position" or the "x" to exit out of modal.
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (132).png>)
 
 _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
@@ -60,7 +60,7 @@ _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 **1.** From the Cosmos (ATOM) asset page you will see a Staking section. Click the FOX logo.
 
-![](<../../.gitbook/assets/image (214).png>)
+![](<../../.gitbook/assets/image (214) (1).png>)
 
 **2.** You can see your ATOM rewards from the "Overview" tab.
 

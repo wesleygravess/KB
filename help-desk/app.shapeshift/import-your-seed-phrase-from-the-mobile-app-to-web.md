@@ -17,7 +17,7 @@ Correct URL: ![url.png](https://shapeshift.zendesk.com/hc/article\_attachments/4
 
 **3.** Select "ShapeShift" from the list of wallets.
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<../../.gitbook/assets/image (65).png>)
 
 **4.** Click "Import a wallet".
 
@@ -26,7 +26,7 @@ Correct URL: ![url.png](https://shapeshift.zendesk.com/hc/article\_attachments/4
 **5.** Enter your seed phrase with a space between each word and click "Next".
 
 \
-![](<../../.gitbook/assets/image (17) (1).png>)
+![](<../../.gitbook/assets/image (17).png>)
 
 **6.** Enter a password to encrypt you wallet. **DO NOT FORGET YOUR PASSWORD.** Click "Next".
 

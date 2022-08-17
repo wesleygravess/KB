@@ -10,11 +10,11 @@ To get started, connect one of the compatible wallets to [**coincap.io**](https:
 
 Choose your network (ETH or BNB) and select the wallet you wish to connect.
 
-![](<../../.gitbook/assets/image (57).png>)
+![](<../../.gitbook/assets/image (57) (1).png>)
 
 Log into your wallet. Once connected, you will notice that your receive address is now where "Connect Wallet" used to be.
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (27) (1).png>)
 
 Clicking on the address allows you to:
 
@@ -28,7 +28,7 @@ Clicking on the address allows you to:
 
 5\. Disconnect the wallet.
 
-![](<../../.gitbook/assets/image (162).png>)
+![](<../../.gitbook/assets/image (162) (1).png>)
 
 Once your wallet is connected, click the Swap button at the top of the page.
 
@@ -40,7 +40,7 @@ Select the pair you'd like to swap and enter the amount you are swapping. Click 
 
 Now you will see the final trade details. After reviewing and you are ready to begin the swap, click "Submit Trade".
 
-![](<../../.gitbook/assets/image (32).png>)
+![](<../../.gitbook/assets/image (32) (1).png>)
 
 Confirm the pay network payment (in this case we are paying some ETH for the gas fee).
 
@@ -48,9 +48,9 @@ Confirm the pay network payment (in this case we are paying some ETH for the gas
 
 That's it! Your wallet should update with the new coin/token balance shortly.
 
-![](<../../.gitbook/assets/image (159).png>)
+![](<../../.gitbook/assets/image (159) (1).png>)
 
 Note: Clicking _the settings wheel on the swap page allows you to adjust the slippage percentage as well as which exchanges you'd like to use._
 
-![](<../../.gitbook/assets/image (108).png>)
+![](<../../.gitbook/assets/image (108) (1).png>)
 

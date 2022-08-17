@@ -18,7 +18,7 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 **4.** Select the cryptoasset you wish to purchase from the dropdown menu. Click "Continue".
 
-![](<../../.gitbook/assets/image (16) (1).png>)
+![](<../../.gitbook/assets/image (16).png>)
 
 **5.** You will be taken to an external site run by Gem. Follow steps #8-16 under the Buy Crypto section as shown [**here**](../beta.shapeshift/how-to-buy-sell-crypto-using-gem.md).
 

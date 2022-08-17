@@ -14,7 +14,7 @@ ShapeShift has integrated **Banxa** and [**Gem**](how-to-buy-sell-crypto-using-g
 
 **2.** Navigate to the assets page and locate ETH. Once you are on the ETH asset page click Receive at the top of the page.
 
-![](<../../.gitbook/assets/image (65).png>)
+![](<../../.gitbook/assets/image (65) (1).png>)
 
 **3.** Copy the address and send ETH from another wallet to this address. Keep in mind that you will only need a small amount of ETH to cover gas fees (no more than $2 worth).
 
