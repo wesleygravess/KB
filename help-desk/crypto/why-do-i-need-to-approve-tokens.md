@@ -12,4 +12,4 @@ Tokens being approved on the ShapeShift Mobile App:
 
 You can also approve tokens using third party wallets like Portis:
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (18) (1).png>)

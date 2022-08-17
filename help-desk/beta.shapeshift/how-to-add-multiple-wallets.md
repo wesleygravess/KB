@@ -22,7 +22,7 @@ description: >-
 
 **5.** Once connected, you will be able to see both/all of the paired wallets by clicking the "ˇ" symbol.
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (23) (1).png>)
 
 **6.** If you want to disconnect a wallet, go to the Settings page and select "Forget" under the desired wallet.
 

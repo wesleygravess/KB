@@ -10,7 +10,7 @@ Often times when staking ERC20 tokens, you will need to approve the token(s) fir
 
 **3.** From your profile, click the "Approval" tab.
 
-![](<../../.gitbook/assets/image (78) (1).png>)
+![](<../../.gitbook/assets/image (78).png>)
 
 **4.** From here you will see a list of all of the approved tokens associated with the wallet you have connected. If you'd like to remove some approved tokens, click "decline" to terminate the approval. Your approved token list will look something like this:
 

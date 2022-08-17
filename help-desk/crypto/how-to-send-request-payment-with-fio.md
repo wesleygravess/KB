@@ -1,6 +1,6 @@
 # 📩 How to Send/Request Payment with FIO?
 
-### **How Do I Request A Payment/Receive FIO?** 
+### **How Do I Request A Payment/Receive FIO?**
 
 **1.** From your Dashboard, click into FIO
 
@@ -18,7 +18,7 @@
 
 ![fio4.png](https://shapeshift.zendesk.com/hc/article\_attachments/4825988297997/fio4.png)
 
-**5.** Review that the user you are requesting from and amount are correct. Click "Next".&#x20;
+**5.** Review that the user you are requesting from and amount are correct. Click "Next".
 
 ![fio5.png](https://shapeshift.zendesk.com/hc/article\_attachments/4825996285709/fio5.png)
 
@@ -26,23 +26,17 @@
 
 ![fio6.png](https://shapeshift.zendesk.com/hc/article\_attachments/4825989895053/fio6.png)
 
-&#x20;
-
 ### **How Do I Send FIO?**
 
-**1.** Sending FIO is the same as sending any other cryptoasset except you can choose to send to a user's custom FIO address if you have it available.&#x20;
+**1.** Sending FIO is the same as sending any other cryptoasset except you can choose to send to a user's custom FIO address if you have it available.
 
 _**Example**_: Instead of sending FIO to an address that looks like:
 
 "FIO56mF5GWfRygBycGS4bAUnQ7bUwoq846vwmooNZw8A5Hn2MY6kH"
 
-&#x20;
-
 You can type in: "user@example" in the address field and send the FIO that way.
 
 ![fio7.png](https://shapeshift.zendesk.com/hc/article\_attachments/4826011634061/fio7.png)
-
-&#x20;
 
 ### **How Do I See My Incoming Requests?**
 
@@ -56,8 +50,6 @@ You can type in: "user@example" in the address field and send the FIO that way.
 
 **3.** Here you will be able to see all of your payment requests. Keep in mind that users can request other tokens besides FIO (you may have noticed in the image above that FOX Token was requested for this example).
 
-&#x20;
-
 ### **How Do I See My Sent Requests?**
 
 **1.** Repeat step 1 from above.
@@ -68,6 +60,3 @@ You can type in: "user@example" in the address field and send the FIO that way.
 
 **3.** From here you can see all of the payments you requested.
 
-&#x20;
-
-#### If you have questions regarding any of the information in this article, please do not hesitate to contact our **customer support team.**

@@ -5,7 +5,7 @@ When you look at your transaction on a block explorer, you may see multiple outp
 \
 
 
-![](<../../../.gitbook/assets/image (150) (1).png>)
+![](<../../../.gitbook/assets/image (150).png>)
 
 As you will see above, there are two unspent amounts. One of these is the _change address_. That means that while it is going to a new address, that address belongs to the user and is accessible via their wallet.
 

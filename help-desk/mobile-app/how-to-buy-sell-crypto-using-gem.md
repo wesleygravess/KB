@@ -10,7 +10,7 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 ![](<../../.gitbook/assets/image (80).png>)
 
-![](<../../.gitbook/assets/image (43).png>)
+![](<../../.gitbook/assets/image (43) (1).png>)
 
 **2.** Select Gem.
 
@@ -50,11 +50,11 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 **3.** Click the "Sell" tab.
 
-![](<../../.gitbook/assets/image (36).png>)
+![](<../../.gitbook/assets/image (36) (1).png>)
 
 **4.** Select the type of crypto you will be selling along with the amount. Add your bank account by clicking "Deposit to". Click "Continue".
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 **5.** Follow the steps until you get to a screen with a deposit address. This address is where you will be sending your crypto to. Once Gem receives your crypto, the process of having the funds sent to your bank will begin. It can take 3-5 business days for the funds to show up in your account. Be sure to send the exact amount specified (no more, no less).
 

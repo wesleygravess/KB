@@ -2,7 +2,7 @@
 
 The long-awaited CoinCap Version 2.0.0 is now available on all Android devices. Before you download and start playing with our new and improved interface, we wanted to share a couple of notes.
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 #### **Altfolios**
 

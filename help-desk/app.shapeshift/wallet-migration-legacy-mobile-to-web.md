@@ -4,11 +4,11 @@
 
 **1.** Go to [**app.shapeshift.com**](https://shapeshift.zendesk.com/hc/en-us/articles/app.shapeshift.com/connect-wallet) and click "Connect Wallet".
 
-![](<../../.gitbook/assets/image (136).png>)
+![](<../../.gitbook/assets/image (11).png>)
 
 **2.** Select ShapeShift from the list of compatible wallets.
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (37).png>)
 
 **3.** Click "Log In".
 
