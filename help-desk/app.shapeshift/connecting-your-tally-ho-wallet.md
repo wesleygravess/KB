@@ -2,7 +2,7 @@
 
 #### ShapeShift now supports the Tally Ho Wallet!
 
-![](<../../.gitbook/assets/image (28).png>)
+![](<../../.gitbook/assets/image (28) (1).png>)
 
 ### How Do I Get A Tally Ho Wallet?
 
@@ -32,7 +32,7 @@
 
 **2.** Select TallyHo from the list of compatible wallets.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (10).png>)
 
 **3.** Click "Pair".
 

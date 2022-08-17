@@ -50,11 +50,11 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 **11.** Once your desired payment method has been added click "Continue".
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (39).png>)
 
 **12.** You will be asked to enter your email address. A verification code will be sent to your inbox. Enter the verification code when prompted to do so.
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<../../.gitbook/assets/image (31) (1).png>)
 
 ![](<../../.gitbook/assets/image (186).png>)
 

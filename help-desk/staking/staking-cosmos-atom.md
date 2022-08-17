@@ -4,7 +4,7 @@
 
 Check out our blog post [**here**](https://medium.com/@ShapeShift.com/shapeshift-integrates-cosmos-functionality-for-native-wallet-users-6974c03086ad) to learn more.
 
-![](<../../.gitbook/assets/image (30).png>)
+![](<../../.gitbook/assets/image (30) (1).png>)
 
 #### What Do I Need In Order To Stake ATOM on ShapeShift?
 
@@ -22,41 +22,37 @@ Check out our blog post [**here**](https://medium.com/@ShapeShift.com/shapeshift
 
 ![](<../../.gitbook/assets/image (47).png>)
 
-**3.** Go to the "Stake" tab and enter the amount of ATOM you would like to stake. Click "Continue".
+**3.** Go to the "Deposit" tab and enter the amount of ATOM you would like to stake. Click "Continue".
 
-![](<../../.gitbook/assets/image (39).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 **4.** Confirm the details are correct and select the amount of gas to pay. Click "Sign & Broadcast".
 
-![](<../../.gitbook/assets/image (67).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
-**5.** Follow the steps on your wallet to pay any approval/transaction fees. Click "Confirm and Broadcast".
+**5.** That's it! You will see a Transaction ID when your ATOM has been successfully staked. You don't have to do anything else, besides click "View Position" or X out of modal.
 
-![](<../../.gitbook/assets/image (124).png>)
-
-**6.** That's it! You will see a Transaction ID when your ATOM has been successfully staked. You don't have to do anything else, besides click "Close".
-
-![](<../../.gitbook/assets/image (190).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### Unstaking Cosmos
 
-**1.** Follow steps 1 and 2 listed above and click the "Unstake" tab.
+**1.** Follow steps 1 and 2 listed above and click the "Withdraw" tab.
 
-![](<../../.gitbook/assets/image (205).png>)
+![](../../.gitbook/assets/image.png)
 
 **2.** Enter the amount you wish to unstake. Click "Continue".
 
-![](<../../.gitbook/assets/image (147).png>)
+![](<../../.gitbook/assets/image (33).png>)
 
 **3.** Confirm the details are correct and select the amount of gas to pay. Click "Sign & Broadcast". Please note: _It will take 21 days to unlock your ATOM after you unstake your tokens._
 
-![](<../../.gitbook/assets/image (5).png>)
+__![](<../../.gitbook/assets/image (30).png>)__
 
-**4.** Lastly, click "Confirm and Broadcast" to complete the unstaking process.
+**4.** Lastly, click "View Position" or the "x" to exit out of modal.
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (13).png>)
 
 _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 

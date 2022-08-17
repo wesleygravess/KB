@@ -12,13 +12,13 @@ description: Tutorial of how to trade on app.shapeshift
 
 **2.** Click "Connect Wallet".
 
-****![](<../../.gitbook/assets/image (21).png>)****
+****![](<../../.gitbook/assets/image (8).png>)****
 
 ****
 
 **3.** Select the wallet you wish to connect. For this example we will be using [**MetaMask**](https://metamask.io/download/).
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
 **4.** Follow the prompts to connect your desired wallet. Once connected, you will see your wallet at the top right of the page.
 

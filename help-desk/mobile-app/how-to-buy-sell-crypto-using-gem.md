@@ -50,7 +50,7 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 **3.** Click the "Sell" tab.
 
-![](<../../.gitbook/assets/image (36).png>)
+![](<../../.gitbook/assets/image (36) (1).png>)
 
 **4.** Select the type of crypto you will be selling along with the amount. Add your bank account by clicking "Deposit to". Click "Continue".
 

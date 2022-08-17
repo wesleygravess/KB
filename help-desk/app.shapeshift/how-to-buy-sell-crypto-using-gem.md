@@ -20,7 +20,7 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 ![](<../../.gitbook/assets/image (16) (1).png>)
 
-**5.** You will be taken to an external site run by Gem. Follow steps #3-7 under the Buy Crypto section as shown [**here**](../mobile-app/how-to-buy-sell-crypto-using-gem.md).
+**5.** You will be taken to an external site run by Gem. Follow steps #8-16 under the Buy Crypto section as shown [**here**](../beta.shapeshift/how-to-buy-sell-crypto-using-gem.md).
 
 ![](<../../.gitbook/assets/image (59).png>)
 
@@ -40,7 +40,7 @@ ShapeShift has integrated with Gem ([**gem.co**](https://gem.co/)) to assist wit
 
 ![](<../../.gitbook/assets/image (100).png>)
 
-**2.** You will be taken to an external site run by Gem. Follow steps #3-5 under the Sell Crypto section as shown [**here**](../mobile-app/how-to-buy-sell-crypto-using-gem.md).
+**2.** You will be taken to an external site run by Gem. Follow steps #7-12 under the Sell Crypto section as shown [**here**](../beta.shapeshift/how-to-buy-sell-crypto-using-gem.md).
 
 ![](<../../.gitbook/assets/image (63).png>)
 

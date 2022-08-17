@@ -14,7 +14,7 @@
 
 3\. If you already have a Portis account you'd like to login to, you can do so here. If you are new and looking to create a wallet, click "Create a Wallet".
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 4\. Click "Continue".
 
