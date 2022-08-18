@@ -40,7 +40,7 @@
 
 **4.** From the popup, click "Connect".
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1).png>)
 
 **5.** That's it! Your Tally Ho wallet is now connected to ShapeShift! (You will see the Keplr logo in the top right hand side of [**app.shapeshift.com**](https://app.shapeshift.com/#/dashboard))
 

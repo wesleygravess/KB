@@ -28,11 +28,11 @@ Check out our blog post [**here**](https://medium.com/@ShapeShift.com/shapeshift
 
 **4.** Confirm the details are correct and select the amount of gas to pay. Click "Sign & Broadcast".
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 **5.** That's it! You will see a Transaction ID when your ATOM has been successfully staked. You don't have to do anything else, besides click "View Position" or X out of modal.
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (19) (2).png>)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -62,10 +62,10 @@ _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 ![](<../../.gitbook/assets/image (214).png>)
 
-**2.** You can see your ATOM rewards from the "Overview" tab.
+**2.** You can see your ATOM rewards from the "Overview" tab by selecting the Claim button. ( If there are no rewards available, you will not be able to select it)
 
-![](<../../.gitbook/assets/image (113).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
-**3.** Clicking "Claim" will allow you to claim any rewards you have earned so far. Keep in mind you will need to pay a small transaction fee when claiming your rewards.
+**3.** Clicking "Confirm Claim" will allow you to claim any rewards you have earned so far. Keep in mind you will need to pay a small transaction fee when claiming your rewards.
 
-![](<../../.gitbook/assets/image (120).png>)
+![](<../../.gitbook/assets/image (2).png>)

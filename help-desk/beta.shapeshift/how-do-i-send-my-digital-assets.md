@@ -8,7 +8,7 @@ Next, click “Send” at the top of the page.
 
 Select the asset you wish to send by either typing into the search bar or scrolling through the list. Then, click “Next”.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (8).png>)
 
 Enter the address and amount you would like to send. You can either enter the amount of crypto or the fiat value. Then, click "Continue".
 
@@ -16,7 +16,7 @@ Enter the address and amount you would like to send. You can either enter the am
 
 Confirm that the address and amount you are about to send is correct. Click “Send \*Asset\*” (In this case, we would be clicking “Send Ethereum”).
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (2).png>)
 
 You’re almost done! Sign transaction and it will complete the send.
 

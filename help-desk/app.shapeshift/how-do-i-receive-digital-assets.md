@@ -18,4 +18,4 @@
 
 ![](<../../.gitbook/assets/image (92).png>)
 
-_Note: **Double check you are sending the proper asset to its corresponding receive address.**_
+_Note: **Double check you are sending the proper asset to its corresponding receive address and make sure it's to a compatible chain (ie only send ERC-20 assets to other ERC-20 wallet addresses)**_

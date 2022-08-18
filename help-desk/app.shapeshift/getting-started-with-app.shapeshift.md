@@ -18,7 +18,7 @@
 
 ![](<../../.gitbook/assets/image (213).png>)
 
-Creating A Wallet
+**Creating A Wallet**
 
 **1.** Click "Create one" at the bottom of the list of wallets. _This will create a ShapeShift wallet that is compatible with our website and mobile app._
 
@@ -42,7 +42,7 @@ Creating A Wallet
 
 ![](<../../.gitbook/assets/image (149).png>)
 
-Switching Wallets
+**Switching Wallets**
 
 **1.** Click your wallet at the top right of the page. A dropdown menu will appear. Click "Switch Wallet Provider".
 
@@ -62,7 +62,7 @@ Switching Wallets
 
 ![](<../../.gitbook/assets/image (112).png>)
 
-Receiving
+**Receiving**
 
 **1.** From the asset page you wish to receive, click the arrow that is pointing down.
 

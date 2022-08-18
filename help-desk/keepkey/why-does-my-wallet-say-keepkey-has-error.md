@@ -21,13 +21,13 @@ KeepKey Updater:
 
 Once you have completed those steps, you can now return to [**https://beta.shapeshift.com**](https://beta.shapeshift.com/) \*\*\*\* and reconnect your KeepKey with the USB. Then, you will follow the steps at the beginning of the article to Pair your KeepKey to the platform:
 
-1. Sign into [**https://beta.shapeshift.com**](https://beta.shapeshift.com/)**.\\**
-2. Connect your KeepKey to your computer.\\
-3. Click the down arrow next to the two letters at the top right of the screen.\\
-4. Click Pair KeepKey.\\
-5. Click the Device.\\
-6. Click Connect.\\
-7. Your KeepKey is now Paired.\\
+1. Sign into [**https://beta.shapeshift.com**](https://beta.shapeshift.com/)**.**
+2. Connect your KeepKey to your computer.
+3. Click the down arrow next to the two letters at the top right of the screen.
+4. Click Pair KeepKey.
+5. Click the Device.
+6. Click Connect.
+7. Your KeepKey is now Paired.
 8. You will now see that it says the "KeepKey Connected" at the top right.
 
 If it still is showing "KeepKey has Error", please try to re-pair the device and unplug it/replug it in a few times.&#x20;

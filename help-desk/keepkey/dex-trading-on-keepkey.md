@@ -42,7 +42,7 @@ More info on which DEXes ShapeShift uses for your trade(s) can be found [**here*
 
 ![Screen\_Shot\_2021-04-29\_at\_5.10.14\_PM.png](https://shapeshift.zendesk.com/hc/article\_attachments/360094134932/Screen\_Shot\_2021-04-29\_at\_5.10.14\_PM.png)
 
-**9.** If for some reason your trade happens to fail, the funds will be automatically returned to your wallet. [**What Happens If My Trade Doesn't Complete**](../crypto/what-happens-if-my-trade-doesnt-complete.md)?
+**9.** If for some reason your trade happens to fail, the funds will be automatically returned to your wallet. [**What Happens If My Trade Doesn't Complete**](broken-reference)?
 
 ![fail.png](https://shapeshift.zendesk.com/hc/article\_attachments/360094134952/fail.png)
 

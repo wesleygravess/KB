@@ -78,14 +78,9 @@ Follow the steps below to get FOXy and start earning FOX.
 
 ![FOXstake.png](https://shapeshift.zendesk.com/hc/article\_attachments/5352859934861/FOXstake.png)
 
-**4.** You will see three tabs:\
-**Overview** - which explains a bit about FOXy and what the current APY % is.
+**4.** You will see the Deposit FOX now tab.
 
-**Deposit** - here you can deposit FOX for FOXy to start earning passive rewards.
-
-**Withdraw** - remove your FOXy and any rewards accrued.
-
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 **5.** Since we will be depositing FOX to get FOXy, click into the "Deposit" tab. Enter the amount of FOX to deposit and click "Continue".
 
@@ -97,7 +92,7 @@ Follow the steps below to get FOXy and start earning FOX.
 
 **7.** Confirm the deposit by clicking "Sign and Broadcast". Follow the prompts from your wallet to complete the deposit.
 
-![foxstake5.png](https://shapeshift.zendesk.com/hc/article\_attachments/5353172738189/foxstake5.png)
+![](<../../.gitbook/assets/image (13).png>)
 
 **8.** Wait a few moments for the transaction to confirm.
 
@@ -119,7 +114,7 @@ Follow the steps below to get FOXy and start earning FOX.
 
 #### Withdrawing FOXy
 
-\_**Note:** \_ You can remove your FOXy position at any time by going to the withdraw tab as seen in step 5. Instant withdraws come with a 2.5% FOXy fee. Waiting 7-14 days will let you withdraw without any FOXy fee.
+**Note:** You can remove your FOXy position at any time by going to the withdraw tab as seen in step 5. Instant withdraws come with a 2.5% FOXy fee. Waiting 7-14 days will let you withdraw without any FOXy fee.
 
 **1.** Enter the amount to withdraw and click "Continue".
 
@@ -145,13 +140,13 @@ Have you been HODLing FOX or perhaps recently claimed some FOX from our airdrop 
 
 \
 \
-**UPDATE:** As of 2/2/22 the newest staking contract (V3) is live! More information can be found [**here**](https://medium.com/@ShapeShift.com/shapeshift-dao-extends-farming-rewards-6f3561d57027).
+**UPDATE:** As of July 2022 the newest staking contract (V4) is live! More information can be found [**here**](https://medium.com/@ShapeShift.com/shapeshift-dao-extends-farming-rewards-6f3561d57027).
 
-![v3.png](https://shapeshift.zendesk.com/hc/article\_attachments/4469878211341/v3.png)
+![](<../../.gitbook/assets/image (3).png>)
 
-You will need to [**unstake your LP tokens**](https://shapeshift.zendesk.com/hc/en-us/articles/4404959328525-Removing-FOX-from-Liquidity-Pool-Unstaking-LP-token-) and add them to the new farming contract in order to continue earning rewards. You do **not** need to remove your liquidity.
+You will need to **unstake your LP tokens** and add them to the new farming contract in order to continue earning rewards. You do **not** need to remove your liquidity.
 
-**Do I need to claim my farming rewards before February 22?**
+**Do I need to claim my farming rewards before July 22?**
 
 When you unstake, you will be claiming your FOX farming rewards at the same time. This means you do not need two different actions for unstaking and claiming your rewards. Your bonus rewards will be deposited into your connected wallet.
 
@@ -159,7 +154,7 @@ When you unstake, you will be claiming your FOX farming rewards at the same time
 
 ![Screen\_Shot\_2021-07-13\_at\_12.08.21\_PM.png](https://shapeshift.zendesk.com/hc/article\_attachments/4404941871245/Screen\_Shot\_2021-07-13\_at\_12.08.21\_PM.png)
 
-In this article we will show you how to stake your FOX and ETH to a FOX/ETH pool on the ShapeShift Mobile App as well as our external [**page**](http://shapeshift.com/shapeshift-decentralize-airdrop). Once your funds are staked in either place you can return to the app or the external [**page**](https://shapeshift.com/shapeshift-decentralize-airdrop) to view your earnings and withdraw your FOX at any time. To remove your staking position, you can reference this [**article**](https://shapeshift.zendesk.com/hc/en-us/articles/4404959328525).
+In this article we will show you how to stake your FOX and ETH to a FOX/ETH pool on the ShapeShift Mobile App as well as our external [**page**](http://shapeshift.com/shapeshift-decentralize-airdrop). Once your funds are staked in either place you can return to the app or the external [**page**](https://shapeshift.com/shapeshift-decentralize-airdrop) to view your earnings and withdraw your FOX at any time. To remove your staking position, you can reference this [**article**](https://app.gitbook.com/o/sZuMvLgongLjnqDgwXZF/s/bGC6bBNTW1bq0h9qr1TZ/\~/changes/URRAh5zC0ra71z4z6Qrz/help-desk/app.shapeshift/fox-farming-removing-fox-from-liquidity-pool-unstaking-lp-token).
 
 **Table of Contents (click any option below to skip to that section):**
 
@@ -194,7 +189,7 @@ In this article we will show you how to stake your FOX and ETH to a FOX/ETH pool
 
 ![Screen\_Shot\_2021-07-13\_at\_1.33.28\_PM.png](https://shapeshift.zendesk.com/hc/article\_attachments/4404952661133/Screen\_Shot\_2021-07-13\_at\_1.33.28\_PM.png) ![Screen\_Shot\_2021-07-13\_at\_1.33.34\_PM.png](https://shapeshift.zendesk.com/hc/article\_attachments/4404967551757/Screen\_Shot\_2021-07-13\_at\_1.33.34\_PM.png)
 
-**5**. Approve the FOX transaction. More information regarding why tokens need to be approved can be found [**here**](https://shapeshift.zendesk.com/hc/en-us/articles/360018501700-Why-do-I-need-to-approve-tokens-before-trading-).
+**5**. Approve the FOX transaction. More information regarding why tokens need to be approved can be found [**here**](../crypto/why-do-i-need-to-approve-tokens.md).
 
 ![Screen\_Shot\_2021-07-13\_at\_1.35.24\_PM.png](https://shapeshift.zendesk.com/hc/article\_attachments/4404952726029/Screen\_Shot\_2021-07-13\_at\_1.35.24\_PM.png)
 
@@ -313,26 +308,24 @@ ShapeShift's newest dapp ([**app.shapeshift.com**](https://app.shapeshift.com/de
 
 **1.** Head over to the DeFi section of [**app.shapeshift.com**](https://app.shapeshift.com/defi/).
 
-![earn1.png](https://shapeshift.zendesk.com/hc/article\_attachments/4431406025101/earn1.png)
+![](<../../.gitbook/assets/image (19).png>)
 
 **2.** Select "Earn".
 
-![Earn2.png](https://shapeshift.zendesk.com/hc/article\_attachments/4431407992845/Earn2.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 **3.** There are many assets to choose from across multiple chains. Select the vault that you would like to deposit into. For this example we will be selecting USDC.
 
-![earn3.png](https://shapeshift.zendesk.com/hc/article\_attachments/4431491636621/earn3.png)
+![](<../../.gitbook/assets/image (6).png>)
 
-**4.** Click "Get Started" next to the asset of your choice.
-
-![earn5.png](https://shapeshift.zendesk.com/hc/article\_attachments/4431502229005/earn5.png)
+**4.** Click the asset of your choice to get started.
 
 **5.** Enter the amount you'd like to deposit. Approve the token and confirm the deposit.
 
-![earn6.png](https://shapeshift.zendesk.com/hc/article\_attachments/4436519244685/earn6.png)
+![](../../.gitbook/assets/image.png)
 
 **6.** That's it! You will now start earning passive income. Please keep in mind that each asset has a different APR% so the amount you earn will vary. You can check your earnings via the "Overview" section.
 
-![](https://shapeshift.zendesk.com/hc/article\_attachments/4436534292365/earn7.png)
+![](<../../.gitbook/assets/image (5).png>)
 
 More information can be found at Yearn's site [**here**](https://docs.yearn.finance/getting-started/intro).

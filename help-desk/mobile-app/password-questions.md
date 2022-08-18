@@ -23,4 +23,8 @@ Please remember your password as we will not be able to assist you if it is forg
 
 If you run into this error message while trying to change your password...
 
-Please consider, ShapeShift Native mobile app is a truly non-custodial wallet experience within an easy to use app. In order to maintain your funds safety, we want to protect your private keys and sign-in credentials from intruders. This means the username and password experience is not like our other platforms. When you create a mobile app account, your username and password are encrypted with your private keys, in a way that makes your wallet only accessible to you. ShapeShift does not have the ability to reset your password. If we did, that would mean we also have access to your wallet - and we don't want that!
+Please consider, ShapeShift Native mobile app is a truly non-custodial wallet experience within an easy to use app. In order to maintain your funds safety, we want to protect your private keys and sign-in credentials from intruders.&#x20;
+
+This means the username and password experience is not like our other platforms. When you create a mobile app account, your username and password are encrypted with your private keys, in a way that makes your wallet only accessible to you.
+
+ShapeShift does not have the ability to reset your password. If we did, that would mean we also have access to your wallet - and we don't want that!
