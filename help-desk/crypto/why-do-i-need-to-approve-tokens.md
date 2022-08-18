@@ -6,9 +6,9 @@ When a trade is facilitated through a DEX you need to first approve any token th
 
 To approve just click on the trade button at the bottom center of the mobile app. Select the token you want to trade (and the token you want to receive), and the amount you want to trade. Click "Next" at the bottom of the screen. If you have never traded this token before you will be prompted with a screen like the one below. Note: this screen is automatic, so if you do not see it, no worries, that means you are good to go and ready to trade! Once you click "approve" you will be taken to the next trade page for you to confirm and complete your trade. That's it. Happy Trading!
 
-Tokens being approved on the ShapeShift Mobile App:
+Tokens being approved on the ShapeShift Web App:
 
-![](<../../.gitbook/assets/image (91).png>)
+![](<../../.gitbook/assets/Screenshot 2022-08-18 190136.png>)
 
 You can also approve tokens using third party wallets like Portis:
 
