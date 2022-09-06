@@ -34,9 +34,11 @@ All fees are paid to the ETH network and _**NOT TO SHAPESHIFT**_. We can not rei
 
 Keep in mind that you will need to make confirmations on your wallet throughout this process. This will require you to pay attention to any pop-up messages from the wallet you are using. This includes approving tokens and paying the gas fee (in ETH). Make sure you have a sufficient amount of ETH in your wallet before removing any liquidity and/or unstaking.
 
-## How to Stake FOX and Earn FOXy
+## FOXy
 
-### Incentivized FOX Liquidity Programs
+FOXy is a staking rewards system that allows FOX token holders the ability to stake FOX into a smart contract in order to receive rewards denominated in FOXy. FOXy is an ERC20, rebasing token that is redeemable 1:1 with FOX tokens.&#x20;
 
 ## Staking Cosmos (ATOM)
+
+ShapeShift offers full native wallet support for all Cosmos functionality. You can send, receive, and stake you ATOM on app.shapeshift.com
 
