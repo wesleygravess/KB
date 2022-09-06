@@ -173,3 +173,4 @@ The "Settings" page will reflect the various settings regarding your account. He
 If you still need assistance using our platform, you can access our Help Center by clicking the "Support" button in the lefthand column.
 
 You can also use [**this**](why-am-i-experiencing-connectivity-issues.md) troubleshooting article and video for more tips and tricks.
+

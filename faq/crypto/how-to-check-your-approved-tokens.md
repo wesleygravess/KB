@@ -1,6 +1,6 @@
 # ⚗ How to Check Your Approved Tokens
 
-Often times when staking ERC20 tokens, you will need to approve the token(s) first. [**Debank**](https://debank.com/) allows you to check which tokens have been approved on your particular wallet(s). This is helpful as there may be some approved tokens that you had forgotten about. You can also unapprove (or decline) these approved tokens if you'd like to. More information on why you need to approve tokens can be found [**here**](broken-reference).
+Often times when staking ERC20 tokens, you will need to approve the token(s) first. [**Debank**](https://debank.com/) allows you to check which tokens have been approved on your particular wallet(s). This is helpful as there may be some approved tokens that you had forgotten about. You can also unapprove (or decline) these approved tokens if you'd like to. More information on why you need to approve tokens can be found [**here**](why-do-i-need-to-approve-tokens.md).
 
 **1.** Go to [**debank.com**](https://debank.com/) and login to your wallet.
 

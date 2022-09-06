@@ -18,3 +18,4 @@ If your KeepKey isn't connecting to ShapeShift, there are a few steps you can ta
    \- Click "Show Full History".\
    \- On the left side, you will see a button to click called "Clear Browsing Data".\
    \- Click "Clear Data" and your history/cache will be cleared.
+

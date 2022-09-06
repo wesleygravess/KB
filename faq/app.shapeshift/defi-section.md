@@ -189,7 +189,7 @@ In this article we will show you how to stake your FOX and ETH to a FOX/ETH pool
 
 ![Screen\_Shot\_2021-07-13\_at\_1.33.28\_PM.png](https://shapeshift.zendesk.com/hc/article\_attachments/4404952661133/Screen\_Shot\_2021-07-13\_at\_1.33.28\_PM.png) ![Screen\_Shot\_2021-07-13\_at\_1.33.34\_PM.png](https://shapeshift.zendesk.com/hc/article\_attachments/4404967551757/Screen\_Shot\_2021-07-13\_at\_1.33.34\_PM.png)
 
-**5**. Approve the FOX transaction. More information regarding why tokens need to be approved can be found [**here**](broken-reference).
+**5**. Approve the FOX transaction. More information regarding why tokens need to be approved can be found [**here**](../crypto/why-do-i-need-to-approve-tokens.md).
 
 ![Screen\_Shot\_2021-07-13\_at\_1.35.24\_PM.png](https://shapeshift.zendesk.com/hc/article\_attachments/4404952726029/Screen\_Shot\_2021-07-13\_at\_1.35.24\_PM.png)
 

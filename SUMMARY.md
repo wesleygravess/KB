@@ -54,6 +54,7 @@
   * [THORSwap](faq/protocols/thorswap.md)
   * [CoW Swap](faq/protocols/cow-swap.md)
   * [0x](faq/protocols/0x.md)
+  * [Cosmos](faq/protocols/cosmos.md)
   * [Idle Finance](faq/protocols/idle-finance.md)
   * [Tokemak](faq/protocols/tokemak.md)
 * [👛 Wallets](faq/wallets.md)
