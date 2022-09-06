@@ -9,3 +9,9 @@ Wallet Balance - The total $ value of your wallet's assets (without any staking/
 Earn Balance - The total $ value earned so far through staking. Keep in mind that the earn balance has yet to be claimed so is not part of your wallet balance.
 
 Earn - Any staked assets along with the current $ value and current APY % will be displayed here.
+
+
+
+DAOing DeFi with ShapeShift:
+
+[https://shapeshift.com/library/daoing-defi-with-shapeshift](https://shapeshift.com/library/daoing-defi-with-shapeshift)
