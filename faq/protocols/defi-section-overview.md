@@ -1,4 +1,4 @@
-# DeFi Section - Overview
+# 💰 DeFi Section - Overview
 
 #### The Overview tab shows your overall net worth, wallet balance, earn balance, and a more detailed view of your staked assets/earnings.
 
