@@ -21,6 +21,8 @@
     * [💭 FOX Governance](faq/about-shapeshift/governance/fox-governance.md)
 * [🚬 Protocols](faq/protocols.md)
 * [DeFi Section - Overview](faq/defi-section-overview.md)
+* [Yieldies](faq/yieldies.md)
+* [Farming, Liquidity Pools](faq/farming-liquidity-pools.md)
 * [🌐 App.ShapeShift](faq/app.shapeshift/README.md)
   * [🚀 What is app.ShapeShift.com?](faq/app.shapeshift/what-is-app.shapeshift.com.md)
   * [🤝 Getting Started with app.ShapeShift](faq/app.shapeshift/getting-started-with-app.shapeshift.md)

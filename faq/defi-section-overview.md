@@ -24,6 +24,4 @@
 
 ![](https://shapeshift.zendesk.com/hc/article\_attachments/6922549026573/overview5.png)
 
-## Yieldies
-
 ## Farming, Liquidity Pools
