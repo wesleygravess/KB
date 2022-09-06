@@ -22,7 +22,7 @@
 
 **1.** Click "Create one" at the bottom of the list of wallets. _This will create a ShapeShift wallet that is compatible with our website and mobile app._
 
-**2.** Click the eye icon to reveal your recovery phrase and write down the 12 words in numerical order and keep them in a safe place. _If you lose these 12 words you risk losing your funds. You can review standard security practices_ [_**here**_](../security/general-security-reminders.md)_._
+**2.** Click the eye icon to reveal your recovery phrase and write down the 12 words in numerical order and keep them in a safe place. _If you lose these 12 words you risk losing your funds. You can review standard security practices_ [_**here**_](broken-reference)_._
 
 **3.** Verify your recovery phrase by selecting the corresponding word (it will ask you to verify 3 words from your 12 word phrase).
 

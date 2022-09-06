@@ -1,6 +1,0 @@
----
-description: ShapeShift wallet
----
-
-# Native
-

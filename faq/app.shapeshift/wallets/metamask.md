@@ -1,6 +1,0 @@
----
-description: Browser Extension
----
-
-# MetaMask
-
