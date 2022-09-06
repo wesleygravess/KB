@@ -17,3 +17,26 @@ Since market prices are constantly changing, your trade rate is likely to fluctu
 Price Impact is the effect a Buy or Sell Order has on the [**automated market maker (AMM)**](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm). The bigger the trade, the bigger the effect on the AMM.
 
 Example: A large order to buy BTC will drive the price of BTC up and conversely a large order to sell would result in the price going down (within the specific DEX you are trading with).&#x20;
+
+
+
+## Fees with Liquidity Pools and Staking
+
+There are a few steps that incur fees along the process of providing liquidity and staking your FOX. Please read the list below:&#x20;
+
+1. A fee is required to the network to "Approve" smart contract interaction with your wallet and a DEX (see this article to learn more: https://shapeshift.zendesk.com/hc/en-us/articles/360018501700-Why-Do-I-Need-To-Approve-Tokens-)&#x20;
+2. A fee is required to send your FOX/ETH to the liquidity pool.
+3. A fee is required to stake your FOX.
+4. A fee is required to unstake your FOX and remove liquidity from the pool.&#x20;
+5. A fee is required to claim your FOX.
+
+All fees are paid to the ETH network and _**NOT TO SHAPESHIFT**_. We can not reimburse for fees. We ask that all users pay attention to current gas fees before taking action so you are fully aware of the cost of each action. You can check out up to date fee estimations here: [**https://etherscan.io/gastracker**](https://etherscan.io/gastracker)**.**&#x20;
+
+Keep in mind that you will need to make confirmations on your wallet throughout this process. This will require you to pay attention to any pop-up messages from the wallet you are using. This includes approving tokens and paying the gas fee (in ETH). Make sure you have a sufficient amount of ETH in your wallet before removing any liquidity and/or unstaking.
+
+## How to Stake FOX and Earn FOXy
+
+### Incentivized FOX Liquidity Programs
+
+## Staking Cosmos (ATOM)
+
