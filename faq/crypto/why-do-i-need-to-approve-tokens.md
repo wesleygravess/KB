@@ -8,7 +8,7 @@ To approve just click on the trade button at the bottom center of the mobile app
 
 Tokens being approved on the ShapeShift Web App:
 
-![](<../../.gitbook/assets/Screenshot 2022-08-18 190136 (1).png>)
+![](<../../.gitbook/assets/Screenshot 2022-08-18 190136.png>)
 
 You can also approve tokens using third party wallets like Portis:
 

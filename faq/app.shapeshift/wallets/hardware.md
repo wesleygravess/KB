@@ -1,0 +1,6 @@
+---
+description: Extra Security
+---
+
+# 🔒 Hardware
+

@@ -8,18 +8,34 @@ coverY: 0
 
 Thank you for being apart of ShapeShift
 
-This sections most frequently used quick links are listed below, all of the sections articles can be searched or found in the left column. Navigation to the next and previous articles is also provided at the bottom of each page.&#x20;
+This sections most frequently used quick links are listed below, all of the sections articles can be searched or found in the left column. Navigation to the next and previous articles is also provided at the bottom of each page.
 
-&#x20;&#x20;
+### Find out more about the history of ShapeShift. (Maybe a short section on the company history?)
 
-{% content-ref url="what-is-shapeshift-fox-token-fox.md" %}
-[what-is-shapeshift-fox-token-fox.md](what-is-shapeshift-fox-token-fox.md)
-{% endcontent-ref %}
+### Current focus
 
-{% content-ref url="fox-governance.md" %}
-[fox-governance.md](fox-governance.md)
-{% endcontent-ref %}
+A free open source platform to trade, track, buy, and earn. We are building a Community-owned, Private, Non-custodial and Multi-chain resource. Check it out [https://app.shapeshift.com/](https://app.shapeshift.com/)
+
+### DAO Initiative
+
+ShapeShift is a DAO find out more:
 
 {% content-ref url="shapeshift-dao-terminology.md" %}
 [shapeshift-dao-terminology.md](shapeshift-dao-terminology.md)
 {% endcontent-ref %}
+
+{% content-ref url="decentralization/decentralized-shapeshift-what-does-it-mean.md" %}
+[decentralized-shapeshift-what-does-it-mean.md](decentralization/decentralized-shapeshift-what-does-it-mean.md)
+{% endcontent-ref %}
+
+{% content-ref url="governance/" %}
+[governance](governance/)
+{% endcontent-ref %}
+
+{% content-ref url="governance/what-is-shapeshift-fox-token-fox.md" %}
+[what-is-shapeshift-fox-token-fox.md](governance/what-is-shapeshift-fox-token-fox.md)
+{% endcontent-ref %}
+
+
+
+Platforms

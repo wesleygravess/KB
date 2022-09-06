@@ -12,7 +12,7 @@
 
 (Don't see your wallet? Consider letting our community know on [**Discord**](https://discord.com/invite/shapeshift).)
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (242).png>)
 
 **3.** Wallet successfully connected!
 
@@ -46,7 +46,7 @@
 
 **1.** Click your wallet at the top right of the page. A dropdown menu will appear. Click "Switch Wallet Provider".
 
-![](<../../.gitbook/assets/image (22) (1).png>)
+![](<../../.gitbook/assets/image (22).png>)
 
 **2.** Switch to your desired wallet.
 
@@ -79,17 +79,17 @@
 
 **2.** Paste the address you are sending to and follow the steps to send the funds. _Always double check the address before sending. Funds sent to the wrong address can not be recovered._
 
-![](<../../.gitbook/assets/image (33) (1).png>)
+![](<../../.gitbook/assets/image (33).png>)
 
 3\. Select the amount you want to send in either USDC amount, or select the \~$0.00 USD and can opt to send a USD amount.
 
-![](<../../.gitbook/assets/image (30).png>)
+![](<../../.gitbook/assets/image (233).png>)
 
 4\. Select the Transaction Fee you wish to pay, either Slow, Average or Fast, and Confirm the transaction in the send modal.&#x20;
 
-![](<../../.gitbook/assets/image (38).png>)
+![](<../../.gitbook/assets/image (182).png>)
 
 5\. Once the Transaction has been broadcast, a green toast will appear in the top right hand side. You can use the link in here to view the transaction on the blockchain. You will also be able to view the transaction now in the Recent Transactions or the Transaction History.&#x20;
 
-![](<../../.gitbook/assets/image (40).png>)
+![](<../../.gitbook/assets/image (13).png>)
 

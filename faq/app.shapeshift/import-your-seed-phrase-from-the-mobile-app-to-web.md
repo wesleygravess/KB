@@ -17,7 +17,7 @@ Correct URL: ![url.png](https://shapeshift.zendesk.com/hc/article\_attachments/4
 
 **3.** Select "ShapeShift" from the list of wallets.
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (120).png>)
 
 **4.** Click "Import a wallet".
 
@@ -40,4 +40,4 @@ Correct URL: ![url.png](https://shapeshift.zendesk.com/hc/article\_attachments/4
 
 ![](<../../.gitbook/assets/image (155).png>)
 
-**8a.** Looking where to find your seed phrase on the ShapeShift Mobile App? Refer to this [**guide**](../mobile-app/how-do-i-view-my-seed-phrase.md).
+**8a.** Looking where to find your seed phrase on the ShapeShift Mobile App? Refer to this [**guide**](../legacy/mobile-app/how-do-i-view-my-seed-phrase.md).
