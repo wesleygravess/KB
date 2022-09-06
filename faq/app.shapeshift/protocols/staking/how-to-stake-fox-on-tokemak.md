@@ -20,7 +20,7 @@ FOX received the most votes for Tokemak's C.O.R.E.2. and now has it's own Token 
 
 **4.** Once your wallet is connected, scroll down the page and find FOX. Click "DEPOSIT FOX".
 
-![](<../../../../.gitbook/assets/image (3).png>)
+![](<../../../../.gitbook/assets/image (3) (1) (1).png>)
 
 **5.** Enter _**any**_ amount of FOX and click "APPROVE FOX".
 

@@ -54,7 +54,7 @@ ShapeShift has integrated THORChain, which provides the ability for cross-chain 
 
 Slippage is neither a pro or con, but important nonetheless. Since market prices are constantly changing, your trade rate is likely to fluctuate. For example, by the time blocks confirm and your trade executes, the price in ETH may have gone up in price. This happens in the stock market as well as the crypto market. ShapeShift allows you to set the maximum amount of slippage for any trade you initiate. Simply select the highest percentage you will allow to account for market slippage.
 
-![](<../../.gitbook/assets/image (116) (1).png>)
+![](<../../.gitbook/assets/image (116).png>)
 
 ![](<../../.gitbook/assets/image (230).png>)
 

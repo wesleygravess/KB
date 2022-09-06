@@ -2,7 +2,7 @@
 
 #### ShapeShift now supports the XDEFI Wallet! This wallet integration allows access to over 9,000 DApps from eleven different blockchains.
 
-![](<../../../.gitbook/assets/image (71) (1).png>)
+![](<../../../.gitbook/assets/image (71).png>)
 
 ### How Do I Get A XDEFI Wallet?
 
@@ -16,7 +16,7 @@
 
 **3.** Choose whether to create a new wallet, restore a wallet, or connect a hardware wallet.
 
-![](<../../../.gitbook/assets/image (37).png>)
+![](<../../../.gitbook/assets/image (37) (1).png>)
 
 **4.** Once you get your 12 word recovery sentence and store it securely offline, the XDEFI wallet will be added to your Chrome extensions.
 

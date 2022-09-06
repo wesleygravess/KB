@@ -4,7 +4,7 @@
 
 Check out our blog post [**here**](https://medium.com/@ShapeShift.com/shapeshift-integrates-cosmos-functionality-for-native-wallet-users-6974c03086ad) to learn more.
 
-![](<../../../../.gitbook/assets/image (30).png>)
+![](<../../../../.gitbook/assets/image (30) (1).png>)
 
 #### What Do I Need In Order To Stake ATOM on ShapeShift?
 
@@ -28,11 +28,11 @@ Check out our blog post [**here**](https://medium.com/@ShapeShift.com/shapeshift
 
 **4.** Confirm the details are correct and select the amount of gas to pay. Click "Sign & Broadcast".
 
-![](<../../../../.gitbook/assets/image (228).png>)
+![](<../../../../.gitbook/assets/image (2) (1).png>)
 
 **5.** That's it! You will see a Transaction ID when your ATOM has been successfully staked. You don't have to do anything else, besides click "View Position" or X out of modal.
 
-![](<../../../../.gitbook/assets/image (116).png>)
+![](<../../../../.gitbook/assets/image (19) (2).png>)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -40,19 +40,19 @@ Check out our blog post [**here**](https://medium.com/@ShapeShift.com/shapeshift
 
 **1.** Follow steps 1 and 2 listed above and click the "Withdraw" tab.
 
-![](<../../../../.gitbook/assets/image (82).png>)
+![](<../../../../.gitbook/assets/image (36).png>)
 
 **2.** Enter the amount you wish to unstake. Click "Continue".
 
-![](<../../../../.gitbook/assets/image (34).png>)
+![](<../../../../.gitbook/assets/image (35).png>)
 
 **3.** Confirm the details are correct and select the amount of gas to pay. Click "Sign & Broadcast". Please note: _It will take 21 days to unlock your ATOM after you unstake your tokens._
 
-__![](<../../../../.gitbook/assets/image (20).png>)__
+![](<../../../../.gitbook/assets/image (12).png>)
 
 **4.** Lastly, click "View Position" or the "x" to exit out of modal.
 
-![](<../../../../.gitbook/assets/image (71).png>)
+![](<../../../../.gitbook/assets/image (31).png>)
 
 _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
@@ -60,12 +60,12 @@ _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 **1.** From the Cosmos (ATOM) asset page you will see a Staking section. Click the FOX logo.
 
-![](<../../../../.gitbook/assets/image (214) (1).png>)
+![](<../../../../.gitbook/assets/image (214).png>)
 
 **2.** You can see your ATOM rewards from the "Overview" tab by selecting the Claim button. ( If there are no rewards available, you will not be able to select it)
 
-![](<../../../../.gitbook/assets/image (246).png>)
+![](<../../../../.gitbook/assets/image (4).png>)
 
 **3.** Clicking "Confirm Claim" will allow you to claim any rewards you have earned so far. Keep in mind you will need to pay a small transaction fee when claiming your rewards.
 
-![](<../../../../.gitbook/assets/image (7).png>)
+![](<../../../../.gitbook/assets/image (2).png>)

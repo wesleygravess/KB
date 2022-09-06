@@ -4,7 +4,7 @@
 
 **1.** Navigate to the Altfolio section of the CoinCap app.
 
-![](<../../../.gitbook/assets/image (185) (1).png>)
+![](<../../../.gitbook/assets/image (185).png>)
 
 **2.** Click "Share".
 
@@ -16,4 +16,4 @@
 
 **4.** To share, copy the URL or use the QR code.
 
-![](<../../../.gitbook/assets/image (48) (1).png>)
+![](<../../../.gitbook/assets/image (48).png>)

@@ -80,35 +80,35 @@ Follow the steps below to get FOXy and start earning FOX.
 
 **4.** You will see the Deposit FOX now tab.
 
-![](<../../.gitbook/assets/image (245).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 **5.** Since we will be depositing FOX to get FOXy, click into the "Deposit" tab. Enter the amount of FOX to deposit and click "Continue".
 
-![](<../../.gitbook/assets/image (132).png>)
+![](<../../.gitbook/assets/image (41).png>)
 
 **6.** Approve the token on your wallet by paying the fee (in ETH). Click "Confirm".
 
-![](<../../.gitbook/assets/image (161).png>)
+![](<../../.gitbook/assets/image (34).png>)
 
 **7.** Confirm the deposit by clicking "Sign and Broadcast". Follow the prompts from your wallet to complete the deposit.
 
-![](<../../.gitbook/assets/image (134).png>)
+![](<../../.gitbook/assets/image (13).png>)
 
 **8.** Wait a few moments for the transaction to confirm.
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 **9.** The transaction will confirm momentarily.
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (26).png>)
 
 **10.** That's it! You will now start earning FOXy. Go to the DeFi section/Overview tab to see your position.
 
-![](<../../.gitbook/assets/image (128).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
 **11.** You can also see your FOXy in the Assets section. Remember, it is an ERC20 Token just like FOX.
 
-![](<../../.gitbook/assets/image (68).png>)
+![](<../../.gitbook/assets/image (16).png>)
 
 ![foxy1.png](https://shapeshift.zendesk.com/hc/article\_attachments/5353438193165/foxy1.png)
 
@@ -118,19 +118,19 @@ Follow the steps below to get FOXy and start earning FOX.
 
 **1.** Enter the amount to withdraw and click "Continue".
 
-![](<../../.gitbook/assets/image (48).png>)
+![](<../../.gitbook/assets/image (17).png>)
 
 **2.** Approve the token transaction.
 
 **3.** Confirm the withdrawal by clicking "Sign and Broadcast".
 
-![](<../../.gitbook/assets/image (141).png>)
+![](<../../.gitbook/assets/image (39).png>)
 
 **4.** If you selected the Instant withdraw your FOXy will show up in your wallet right away.
 
 **5.** If you selected the slower/free method your FOXy will show a pending status with the amount of days until your FOXy is available.
 
-![](<../../.gitbook/assets/image (191).png>)
+![](<../../.gitbook/assets/image (32).png>)
 
 ## FOX Farming - Add to Liquidity Pools and Staking Contract to Earn More FOX
 
@@ -142,7 +142,7 @@ Have you been HODLing FOX or perhaps recently claimed some FOX from our airdrop 
 \
 **UPDATE:** As of July 2022 the newest staking contract (V4) is live! More information can be found [**here**](https://medium.com/@ShapeShift.com/shapeshift-dao-extends-farming-rewards-6f3561d57027).
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 You will need to **unstake your LP tokens** and add them to the new farming contract in order to continue earning rewards. You do **not** need to remove your liquidity.
 
@@ -248,7 +248,7 @@ Congratulations! You have successfully added funds to the liquidity pool!
 
 **3**. For this example we used Portis. Click “Provide Liquidity on UNISwap” to proceed. **Note that the APR percentage will change frequently. You may see a different percentage from the screenshots provided below.**
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../../.gitbook/assets/image (35) (1).png>)
 
 **4**. Enter the amount of FOX you will be adding to the LP (Liquidity Pool). It will automatically calculate the ETH equivalent. Click “Supply”.
 
@@ -308,24 +308,24 @@ ShapeShift's newest dapp ([**app.shapeshift.com**](https://app.shapeshift.com/de
 
 **1.** Head over to the DeFi section of [**app.shapeshift.com**](https://app.shapeshift.com/defi/).
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (19).png>)
 
 **2.** Select "Earn".
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
 **3.** There are many assets to choose from across multiple chains. Select the vault that you would like to deposit into. For this example we will be selecting USDC.
 
-![](<../../.gitbook/assets/image (65).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
 **4.** Click the asset of your choice to get started.
 
 **5.** Enter the amount you'd like to deposit. Approve the token and confirm the deposit.
 
-![](<../../.gitbook/assets/image (156).png>)
+![](../../.gitbook/assets/image.png)
 
 **6.** That's it! You will now start earning passive income. Please keep in mind that each asset has a different APR% so the amount you earn will vary. You can check your earnings via the "Overview" section.
 
-![](<../../.gitbook/assets/image (93).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 More information can be found at Yearn's site [**here**](https://docs.yearn.finance/getting-started/intro).

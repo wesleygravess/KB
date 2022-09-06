@@ -14,7 +14,7 @@ Choose your network (ETH or BNB) and select the wallet you wish to connect.
 
 Log into your wallet. Once connected, you will notice that your receive address is now where "Connect Wallet" used to be.
 
-![](<../../../.gitbook/assets/image (27) (1).png>)
+![](<../../../.gitbook/assets/image (27).png>)
 
 Clicking on the address allows you to:
 
@@ -40,7 +40,7 @@ Select the pair you'd like to swap and enter the amount you are swapping. Click 
 
 Now you will see the final trade details. After reviewing and you are ready to begin the swap, click "Submit Trade".
 
-![](<../../../.gitbook/assets/image (32).png>)
+![](<../../../.gitbook/assets/image (32) (1).png>)
 
 Confirm the pay network payment (in this case we are paying some ETH for the gas fee).
 
@@ -53,4 +53,3 @@ That's it! Your wallet should update with the new coin/token balance shortly.
 Note: Clicking _the settings wheel on the swap page allows you to adjust the slippage percentage as well as which exchanges you'd like to use._
 
 ![](<../../../.gitbook/assets/image (108).png>)
-

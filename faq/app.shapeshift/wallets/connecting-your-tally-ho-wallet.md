@@ -2,7 +2,7 @@
 
 #### ShapeShift now supports the Tally Ho Wallet!
 
-![](<../../../.gitbook/assets/image (28).png>)
+![](<../../../.gitbook/assets/image (28) (1).png>)
 
 ### How Do I Get A Tally Ho Wallet?
 
@@ -18,7 +18,7 @@
 
 **3.** Tally Ho has now been added to your Chrome extensions.
 
-![](<../../../.gitbook/assets/image (41).png>)
+![](<../../../.gitbook/assets/image (41) (1).png>)
 
 **4.** Choose how you would like to setup your wallet. (As always when creating a new wallet, make sure to backup your recovery sentence is a safe place, offline.)
 
@@ -32,18 +32,18 @@
 
 **2.** Select TallyHo from the list of compatible wallets.
 
-![](<../../../.gitbook/assets/image (12).png>)
+![](<../../../.gitbook/assets/image (5) (2).png>)
 
 **3.** Click "Pair".
 
-![](<../../../.gitbook/assets/image (14).png>)
+![](<../../../.gitbook/assets/image (14) (1).png>)
 
 **4.** From the popup, click "Connect".
 
-![](<../../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (6) (1) (1).png>)
 
 **5.** That's it! Your Tally Ho wallet is now connected to ShapeShift! (You will see the Keplr logo in the top right hand side of [**app.shapeshift.com**](https://app.shapeshift.com/#/dashboard))
 
-![](<../../../.gitbook/assets/image (26).png>)
+![](<../../../.gitbook/assets/image (26) (1).png>)
 
-![](<../../../.gitbook/assets/image (11).png>)
+![](<../../../.gitbook/assets/image (11) (1).png>)

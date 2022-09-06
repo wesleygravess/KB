@@ -12,13 +12,13 @@ description: Tutorial of how to trade on app.shapeshift
 
 **2.** Click "Connect Wallet".
 
-****![](<../../.gitbook/assets/image (193).png>)****
+![](<../../.gitbook/assets/image (3) (1).png>)
 
-****
+***
 
 **3.** Select the wallet you wish to connect. For this example we will be using [**MetaMask**](https://metamask.io/download/).
 
-![](<../../.gitbook/assets/image (214).png>)
+![](<../../.gitbook/assets/image (8) (2).png>)
 
 **4.** Follow the prompts to connect your desired wallet. Once connected, you will see your wallet at the top right of the page.
 
@@ -39,4 +39,3 @@ description: Tutorial of how to trade on app.shapeshift
 **8.** Follow the prompts on your wallet to initiate the trade.
 
 Complete! Your newly acquired cryptoasset should arrive in your wallet momentarily.
-

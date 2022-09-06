@@ -9,7 +9,7 @@
 **2a.** _Alternative method:_
 
 \
-Click the trade icon <img src="../../../.gitbook/assets/Screen Shot 2022-07-02 at 6.18.56 AM.png" alt="" data-size="line"> \_\_ and select "Send"
+Click the trade icon <img src="../../../.gitbook/assets/Screen Shot 2022-07-02 at 6.18.56 AM (1).png" alt="" data-size="line"> \_\_ and select "Send"
 
 ![](<../../../.gitbook/assets/image (199).png>)
 
@@ -21,7 +21,7 @@ Click the trade icon <img src="../../../.gitbook/assets/Screen Shot 2022-07-02 a
 
 **4a.** You can also click "Send Max" if you want to send all of your available balance. Click "Next".
 
-![](<../../../.gitbook/assets/Screen Shot 2022-07-02 at 6.47.09 AM.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-07-02 at 6.47.09 AM (1).png>)
 
 **4**. Confirm that the amount and address is correct. Click "Confirm and Send".
 

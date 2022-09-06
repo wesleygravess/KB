@@ -17,7 +17,7 @@ Correct URL: ![url.png](https://shapeshift.zendesk.com/hc/article\_attachments/4
 
 **3.** Select "ShapeShift" from the list of wallets.
 
-![](<../../.gitbook/assets/image (120).png>)
+![](<../../.gitbook/assets/image (37).png>)
 
 **4.** Click "Import a wallet".
 
