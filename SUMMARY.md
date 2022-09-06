@@ -19,7 +19,7 @@
   * [🗳 Governance](faq/about-shapeshift/governance/README.md)
     * [🪙 What is ShapeShift FOX Token (FOX)?](faq/about-shapeshift/governance/what-is-shapeshift-fox-token-fox.md)
     * [💭 FOX Governance](faq/about-shapeshift/governance/fox-governance.md)
-* [🚬 Protocols](faq/protocols/README.md)
+* [🎛 Protocols](faq/protocols/README.md)
   * [💰 DeFi Section - Overview](faq/protocols/defi-section-overview.md)
   * [🚜 Farming, Liquidity Pools](faq/protocols/farming-liquidity-pools.md)
   * [⛱ Yieldies](faq/protocols/yieldies.md)
