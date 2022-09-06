@@ -52,7 +52,7 @@
   * [🚜 Farming, Liquidity Pools](faq/protocols/farming-liquidity-pools.md)
   * [⛱ Yieldies](faq/protocols/yieldies.md)
   * [THORSwap](faq/protocols/thorswap.md)
-  * [CowSwap](faq/protocols/cowswap.md)
+  * [CoW Swap](faq/protocols/cow-swap.md)
   * [0x](faq/protocols/0x.md)
   * [Idle Finance](faq/protocols/idle-finance.md)
   * [Tokemak](faq/protocols/tokemak.md)
