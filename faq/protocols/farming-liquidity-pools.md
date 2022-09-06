@@ -17,11 +17,3 @@ Since market prices are constantly changing, your trade rate is likely to fluctu
 Price Impact is the effect a Buy or Sell Order has on the [**automated market maker (AMM)**](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm). The bigger the trade, the bigger the effect on the AMM.
 
 Example: A large order to buy BTC will drive the price of BTC up and conversely a large order to sell would result in the price going down (within the specific DEX you are trading with).&#x20;
-
-**More information on Liquidity Pools can be found here:**
-
-[**THORChain Liquidity Providers**](https://docs.thorchain.org/roles/liquidity-providers)
-
-[**What Are Liquidity Pools In DeFi?**](https://academy.binance.com/en/articles/what-are-liquidity-pools-in-defi)
-
-[**Understanding Returns**](https://uniswap.org/docs/v2/advanced-topics/understanding-returns/)
