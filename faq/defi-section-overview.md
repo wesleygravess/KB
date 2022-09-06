@@ -23,5 +23,3 @@
 #### Earn - Any staked assets along with the current $ value and current APY % will be displayed here.
 
 ![](https://shapeshift.zendesk.com/hc/article\_attachments/6922549026573/overview5.png)
-
-## Farming, Liquidity Pools
