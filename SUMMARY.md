@@ -57,7 +57,7 @@
       * [Validators](faq/app.shapeshift/protocols/staking/validators.md)
       * [TOKEMAK Reactor](faq/app.shapeshift/protocols/staking/tokemak-reactor.md)
   * [🔗 Mobile App](faq/app.shapeshift/mobile-app.md)
-* [Wallets](faq/wallets.md)
+* [👛 Wallets](faq/wallets.md)
 * [🔐 KeepKey](faq/keepkey/README.md)
   * [⚒ KeepKey Set Up](faq/keepkey/keepkey-set-up.md)
   * [🎛 KeepKey Settings](faq/keepkey/keepkey-settings.md)
