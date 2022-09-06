@@ -4,6 +4,6 @@ Since market prices are constantly changing, your trade rate is likely to fluctu
 
 Here is a screenshot from [beta.shapeshift.com ](https://beta.shapeshift.com/trade)which shows the different percentages you can select to account for slippage:
 
-![](<../../../.gitbook/assets/image (182).png>)
+![](<../../.gitbook/assets/image (182).png>)
 
 The miner fee will be paid even if your trade does fail because the price of the cryptoassets had moved outside your set percentage. In general, it makes sense to put a higher slippage percentage to ensure your trade doesn't end up failing.

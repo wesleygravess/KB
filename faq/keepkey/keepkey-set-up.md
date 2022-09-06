@@ -138,7 +138,7 @@ Once you add digital assets, your dashboard will reflect your balances. If you h
 
 ### **Sending and Receiving**
 
-If you wish to send digital assets, you will need to reconnect your device. Learn more about [**sending**](../beta.shapeshift/how-do-i-send-my-digital-assets.md) and [**receiving**](../../app.shapeshift/how-do-i-receive-digital-assets.md).
+If you wish to send digital assets, you will need to reconnect your device. Learn more about [**sending**](../legacy/beta.shapeshift/how-do-i-send-my-digital-assets.md) and [**receiving**](../app.shapeshift/how-do-i-receive-digital-assets.md).
 
 ### **Assets**
 

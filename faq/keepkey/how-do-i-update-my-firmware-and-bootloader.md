@@ -2,8 +2,6 @@
 
 #### Download the latest version of the KeepKey Updater App [**here**](https://github.com/keepkey/keepkey-updater/releases).
 
-
-
 {% embed url="https://youtu.be/YSeLTYhkQf8" %}
 
 **You can also follow the step by step guide below:**
