@@ -22,7 +22,7 @@
   * [🛠 Open Source](faq/app.shapeshift/open-source.md)
   * [⛓ Blockchains](faq/app.shapeshift/blockchains.md)
   * [🪜 Supported ON/OFF Ramps](faq/app.shapeshift/supported-on-off-ramps/README.md)
-    * [💳 Purchase Crypto With A Debit Card](faq/app.shapeshift/supported-on-off-ramps/purchase-crypto-with-a-debit-card.md)
+    * [💳 Purchase Crypto With A Debit Card on Banxa](faq/app.shapeshift/supported-on-off-ramps/purchase-crypto-with-a-debit-card.md)
     * [💎 How to Buy/Sell Crypto Using Gem](faq/app.shapeshift/supported-on-off-ramps/how-to-buy-sell-crypto-using-gem.md)
 * [🎛 Protocols](faq/protocols/README.md)
   * [💰 DeFi Section - Overview](faq/protocols/defi-section-overview.md)
