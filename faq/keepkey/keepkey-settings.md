@@ -68,4 +68,4 @@ If the Bootloader and/or Firmware need to be updated, you will be prompted to up
 3. Confirm that you want to wipe the device by clicking the checkbox. If you are confident that you want to wipe the device, click "Wipe Device".
 4. Your KeepKey will now be back to the default settings. You will need to initialize the device to create a new wallet or recover the KeepKey using the recovery sentence to restore your wallet and access your funds. Follow the guide [<mark style="color:blue;">**here**</mark>](how-do-i-recover-on-my-keepkey.md) to recover your wallet.
 
-_Note: Recovering is not available on_ [_<mark style="color:blue;">**app.shapeshift.com**</mark>_](https://app.shapeshift.com/dashboard#/dashboard) _at this time. You will need to use_ [_<mark style="color:blue;">**beta.shapeshift.com**</mark>_](https://beta.shapeshift.com/) _for this. Looking to initialize/setup your KeepKey? Follow the guide_ [_<mark style="color:blue;">**here**</mark>_](keepkey-set-up.md)_._
+__
