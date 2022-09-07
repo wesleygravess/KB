@@ -1,2 +1,0 @@
-# TOKEMAK Reactor
-
