@@ -28,8 +28,8 @@ ShapeShift is a DAO find out more:
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="governance/" %}
-[governance](governance/)
+{% content-ref url="governance.md" %}
+[governance.md](governance.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
