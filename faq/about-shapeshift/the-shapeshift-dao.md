@@ -16,6 +16,10 @@ Official ShapeShift article release
 
 #### **DAO -** Decentralized Autonomous Organization
 
+What is a DAO and how does that affect ShapeShift operations - A DAO is a "decentralize autonomous organization". You can learn more about DAO's, the history, and their future in this [**Cointelegraph guide**](https://cointelegraph.com/ethereum-for-beginners/what-is-dao).
+
+Decentralization -  provides the possibility to allow a larger community to steer the direction of our suite of products and services and contribute to our future success, while helping to better ensure that content and ability aren't censored, or limited to a select few.
+
 Learn about our DAO's specific structure [**here**](https://forum.shapeshift.com/t/shapeshift-organizational-structure/50).
 
 #### **FOX:**
