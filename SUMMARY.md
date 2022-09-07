@@ -17,7 +17,6 @@
       * [⚙ Bounties](faq/about-shapeshift/decentralization/contribute/bounties.md)
       * [🎗 Important Links When Interacting with the ShapeShift DAO](faq/about-shapeshift/decentralization/contribute/important-links-when-interacting-with-the-shapeshift-dao.md)
   * [🗳 Governance](faq/about-shapeshift/governance/README.md)
-    * [🦊 How To Buy ShapeShift FOX Token On Coinbase](faq/crypto/how-to-buy-shapeshift-fox-token-on-coinbase.md)
     * [💭 FOX Governance](faq/about-shapeshift/governance/fox-governance.md)
 * [🌐 App.ShapeShift](faq/app.shapeshift/README.md)
   * [🚀 What is app.ShapeShift.com?](faq/app.shapeshift/what-is-app.shapeshift.com.md)
