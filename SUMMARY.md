@@ -32,7 +32,7 @@
   * [🐮 CoW Swap](faq/protocols/cow-swap.md)
   * [🌀 0x](faq/protocols/0x.md)
   * [🔓 Yearn](faq/protocols/yearn.md)
-  * [Cosmos](faq/protocols/cosmos.md)
+  * [🌌 Cosmos](faq/protocols/cosmos.md)
   * [Osmosis](faq/protocols/osmosis.md)
   * [Idle Finance](faq/protocols/idle-finance.md)
   * [Tokemak](faq/protocols/tokemak.md)
