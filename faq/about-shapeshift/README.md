@@ -24,18 +24,16 @@ ShapeShift is a DAO find out more:
 [shapeshift-dao-terminology.md](shapeshift-dao-terminology.md)
 {% endcontent-ref %}
 
-{% content-ref url="decentralization/decentralized-shapeshift-what-does-it-mean.md" %}
-[decentralized-shapeshift-what-does-it-mean.md](decentralization/decentralized-shapeshift-what-does-it-mean.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="governance/" %}
 [governance](governance/)
 {% endcontent-ref %}
 
-{% content-ref url="governance/what-is-shapeshift-fox-token-fox.md" %}
-[what-is-shapeshift-fox-token-fox.md](governance/what-is-shapeshift-fox-token-fox.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
-
-
 
 Platforms
