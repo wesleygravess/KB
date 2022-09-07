@@ -5,6 +5,9 @@
 ## 📙 FAQ
 
 * [🦊 About ShapeShift](faq/about-shapeshift/README.md)
+  * [The ShapeShift DAO](faq/about-shapeshift/the-shapeshift-dao/README.md)
+    * [🎨 ShapeShift Creative](faq/about-shapeshift/the-shapeshift-dao/shapeshift-creative.md)
+  * [🗺 Stated ShapeShift Mission](faq/about-shapeshift/stated-shapeshift-mission.md)
   * [💊 ShapeShift DAO Terminology](faq/about-shapeshift/shapeshift-dao-terminology.md)
   * [🔸 What Is A DEX?](faq/crypto/what-is-a-dex.md)
   * [📡 DAO's Current CEX/DEX Listings](faq/about-shapeshift/daos-current-cex-dex-listings.md)
@@ -20,8 +23,6 @@
     * [🪙 What is ShapeShift FOX Token (FOX)?](faq/about-shapeshift/governance/what-is-shapeshift-fox-token-fox.md)
     * [🦊 How To Buy ShapeShift FOX Token On Coinbase](faq/crypto/how-to-buy-shapeshift-fox-token-on-coinbase.md)
     * [💭 FOX Governance](faq/about-shapeshift/governance/fox-governance.md)
-  * [The ShapeShift DAO](faq/about-shapeshift/the-shapeshift-dao.md)
-  * [🗺 Stated ShapeShift Mission](faq/about-shapeshift/stated-shapeshift-mission.md)
 * [🌐 App.ShapeShift](faq/app.shapeshift/README.md)
   * [🚀 What is app.ShapeShift.com?](faq/app.shapeshift/what-is-app.shapeshift.com.md)
   * [🛠 Open Source](faq/app.shapeshift/open-source.md)
