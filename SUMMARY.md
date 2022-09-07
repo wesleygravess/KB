@@ -37,7 +37,7 @@
   * [🚜 Farming, Liquidity Pools](faq/protocols/farming-liquidity-pools.md)
   * [⛱ Yieldies](faq/protocols/yieldies.md)
   * [🔨 THORSwap](faq/protocols/thorswap.md)
-  * [CoW Swap](faq/protocols/cow-swap.md)
+  * [🐮 CoW Swap](faq/protocols/cow-swap.md)
   * [0x](faq/protocols/0x.md)
   * [Yearn](faq/protocols/yearn.md)
   * [Cosmos](faq/protocols/cosmos.md)
