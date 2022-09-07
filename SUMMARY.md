@@ -49,7 +49,6 @@
   * [Validators](faq/protocols/validators.md)
 * [👛 Wallets](faq/wallets.md)
   * [⚗ How to Check Your Approved Tokens](faq/crypto/how-to-check-your-approved-tokens.md)
-* [🩺 Support](faq/general-inquiries/support.md)
 * [📱 Mobile](faq/mobile.md)
 * [👻 Legacy](faq/legacy/README.md)
   * [🧳 Beta.ShapeShift](faq/legacy/beta.shapeshift/README.md)
