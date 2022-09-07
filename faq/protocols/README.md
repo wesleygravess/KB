@@ -1,3 +1,3 @@
 # 🎛 Protocols
 
-Protocols supported on the ShapeShift ecosystem
+Protocols supported on the ShapeShift ecosystem:
