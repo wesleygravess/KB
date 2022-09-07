@@ -34,7 +34,7 @@
   * [🔓 Yearn](faq/protocols/yearn.md)
   * [🌌 Cosmos](faq/protocols/cosmos.md)
   * [🦠 Osmosis](faq/protocols/osmosis.md)
-  * [Idle Finance](faq/protocols/idle-finance.md)
+  * [🛡 Idle Finance](faq/protocols/idle-finance.md)
   * [🎁 Tokemak](faq/protocols/tokemak.md)
   * [Validators](faq/protocols/validators.md)
 * [👛 Wallets](faq/wallets.md)
