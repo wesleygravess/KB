@@ -21,6 +21,7 @@
     * [🦊 How To Buy ShapeShift FOX Token On Coinbase](faq/crypto/how-to-buy-shapeshift-fox-token-on-coinbase.md)
     * [💭 FOX Governance](faq/about-shapeshift/governance/fox-governance.md)
   * [The ShapeShift DAO](faq/about-shapeshift/the-shapeshift-dao.md)
+  * [🗺 Stated ShapeShift Mission](faq/about-shapeshift/stated-shapeshift-mission.md)
 * [🌐 App.ShapeShift](faq/app.shapeshift/README.md)
   * [🚀 What is app.ShapeShift.com?](faq/app.shapeshift/what-is-app.shapeshift.com.md)
   * [🛠 Open Source](faq/app.shapeshift/open-source.md)
