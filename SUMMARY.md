@@ -12,7 +12,6 @@
   * [📡 DAO's Current CEX/DEX Listings](faq/about-shapeshift/daos-current-cex-dex-listings.md)
   * [🔤 What are Your Terms of Service?](faq/general-inquiries/what-are-your-terms-of-service.md)
   * [🪄 Decentralization](faq/about-shapeshift/decentralization/README.md)
-    * [🚀 Infrastructure](faq/about-shapeshift/decentralization/infrastructure.md)
     * [🔄 Contribute](faq/about-shapeshift/decentralization/contribute/README.md)
       * [💻 CodeBase](faq/about-shapeshift/decentralization/contribute/codebase.md)
       * [⚙ Bounties](faq/about-shapeshift/decentralization/contribute/bounties.md)
