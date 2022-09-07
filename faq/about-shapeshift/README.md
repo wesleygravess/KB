@@ -20,8 +20,8 @@ A free open source platform to trade, track, buy, and earn. We are building a Co
 
 ShapeShift is a DAO find out more:
 
-{% content-ref url="shapeshift-dao-terminology.md" %}
-[shapeshift-dao-terminology.md](shapeshift-dao-terminology.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

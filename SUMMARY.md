@@ -6,8 +6,7 @@
 
 * [🦊 About ShapeShift](faq/about-shapeshift/README.md)
   * [The ShapeShift DAO](faq/about-shapeshift/the-shapeshift-dao.md)
-  * [🎨 ShapeShift Creative](faq/about-shapeshift/shapeshift-creative.md)
-  * [💊 ShapeShift DAO Terminology](faq/about-shapeshift/shapeshift-dao-terminology.md)
+  * [🎨 ShapeShift Branding](faq/about-shapeshift/shapeshift-branding.md)
   * [🔸 What Is A DEX?](faq/crypto/what-is-a-dex.md)
   * [📡 DAO's Current CEX/DEX Listings](faq/about-shapeshift/daos-current-cex-dex-listings.md)
   * [🔤 What are Your Terms of Service?](faq/general-inquiries/what-are-your-terms-of-service.md)
