@@ -12,21 +12,13 @@ description: Tutorial of how to trade on app.shapeshift
 
 **2.** Click "Connect Wallet".
 
-![](<../../.gitbook/assets/image (3) (1).png>)
-
 ***
 
 **3.** Select the wallet you wish to connect. For this example we will be using [**MetaMask**](https://metamask.io/download/).
 
-![](<../../.gitbook/assets/image (8) (2).png>)
-
 **4.** Follow the prompts to connect your desired wallet. Once connected, you will see your wallet at the top right of the page.
 
-![mm1.png](https://shapeshift.zendesk.com/hc/article\_attachments/4417990813581/mm1.png)
-
 **5.** Once the wallet has been successfully paired, you will now be at the [**dashboard page**](https://app.shapeshift.com/dashboard)**.** From the dashboard, you will see a trade window.
-
-![trade1.png](https://shapeshift.zendesk.com/hc/article\_attachments/4417990819981/trade1.png)
 
 **6.** Select the asset pair and amount you wish to trade and click "Preview Trade".
 

@@ -14,7 +14,7 @@
 
 ### Requirements
 
-\- To see if your country is eligible, click [here.](what-countries-are-supported-by-banxa.md)
+\- To see if your country is eligible, click [here.](broken-reference)
 
 \- Debit card must have a exp date and CVC code (3-4 digit code).
 

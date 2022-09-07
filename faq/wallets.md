@@ -4,11 +4,11 @@ description: A list of all the wallets currently supported on App.ShapeShift.com
 
 # 👛 Wallets
 
-### Native Wallet.
+### Native Wallet
 
 A free open source platform to trade, track, buy, and earn. Community-owned. Private. Non-custodial. Multi-chain.
 
-Advantages - multi block chain. Platform allows to switch between multi wallets.
+Advantages -The ShapeShift platform allows you to switch between multiple different wallets all from the same location making the access to your crypto easier than ever.
 
 {% embed url="https://shapeshift.com/" %}
 
@@ -20,13 +20,13 @@ MetaMask is a software cryptocurrency wallet used to interact with the Ethereum 
 
 ### KeepKep
 
-KeepKey is ShapeShifts Hardware wallet. Protect your cryptocurrencies, store your private keys offline, and safeguard your assets from hackers. It’s time to achieve financial freedom in the most secure way with KeepKey.
+KeepKey is ShapeShift's Hardware wallet. Protect your cryptocurrencies, store your private keys offline, and safeguard your assets from hackers. It’s time to achieve financial freedom in the most secure way with KeepKey.
 
 {% embed url="https://shapeshift.com/keepkey" %}
 
 ### Portis
 
-Portis is **a non-custodial blockchain wallet that helps you in storing your cryptocurrency assets**. Although the hardware wallets have the advantage of more security through the usage of private keys or seed phrases, they also help you to log in from any machine
+Portis is a non-custodial blockchain wallet that helps you in storing your cryptocurrency assets. Although the hardware wallets have the advantage of more security through the usage of private keys or seed phrases, they also help you to log in from any machine
 
 {% embed url="https://www.portis.io/" %}
 
@@ -47,6 +47,8 @@ Swap, send and store more than 10,000 assets on Bitcoin, Ethereum, THORChain, Av
 ### Keplr
 
 The Interchain Wallet supporting 20+ blockchains. Keplr supports the Ledger Nano S/X hardware wallet for added layer of security. Keplr provides flexibility in how you access your wallet. Choose from a variety of options from mnemonic phrases, Web3Auth's Google login, or the safety of a hardware wallet. User private keys are completely encrypted and securely stored locally on your computer.
+
+\*ShapeShift currently supports ATOM and soon Osmosis&#x20;
 
 {% embed url="https://www.keplr.app/" %}
 
