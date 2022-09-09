@@ -20,20 +20,20 @@ A free open source platform to trade, track, buy, and earn. We are building a Co
 
 ShapeShift is a DAO find out more:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="the-shapeshift-dao.md" %}
+[the-shapeshift-dao.md](the-shapeshift-dao.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="shapeshift-creative.md" %}
+[shapeshift-creative.md](shapeshift-creative.md)
 {% endcontent-ref %}
 
-{% content-ref url="governance.md" %}
-[governance.md](governance.md)
+{% content-ref url="../app.shapeshift/" %}
+[app.shapeshift](../app.shapeshift/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../general-inquiries/what-are-your-terms-of-service.md" %}
+[what-are-your-terms-of-service.md](../general-inquiries/what-are-your-terms-of-service.md)
 {% endcontent-ref %}
 
 Platforms
