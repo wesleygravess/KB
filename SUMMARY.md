@@ -62,6 +62,5 @@
     * [🎛 KeepKey Settings](faq/keepkey/keepkey-settings.md)
     * [🪡 Troubleshooting KeepKey](faq/keepkey/troubleshooting-keepkey.md)
     * [🏥 How Do I Recover On My KeepKey?](faq/keepkey/how-do-i-recover-on-my-keepkey.md)
-    * [⚙ How to Enable BIP39 Passphrase in the ShapeShift Platform](faq/keepkey/how-to-enable-bip39-passphrase-in-the-shapeshift-platform.md)
     * [♨ KeepKey Privacy Policy](faq/keepkey/keepkey-privacy-policy.md)
     * [📜 KeepKey Terms of Service](faq/keepkey/keepkey-terms-of-service.md)
