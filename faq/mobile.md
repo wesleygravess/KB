@@ -8,6 +8,10 @@ For now, the legacy app could still be downloaded and used on both android and i
 
 Here are the links to download the app:
 
-Play Store: [https://play.google.com/store/apps/details?id=com.shapeshift.droid\_shapeshift\&hl=en\&gl=US](https://play.google.com/store/apps/details?id=com.shapeshift.droid\_shapeshift\&hl=en\&gl=US)
+Play Store
 
-App Store: [https://apps.apple.com/us/app/shapeshift-buy-trade-crypto/id996569075](https://apps.apple.com/us/app/shapeshift-buy-trade-crypto/id996569075)
+{% embed url="https://play.google.com/store/apps/details?gl=US&hl=en&id=com.shapeshift.droid_shapeshift" %}
+
+App Store:&#x20;
+
+{% embed url="https://apps.apple.com/us/app/shapeshift-buy-trade-crypto/id996569075" %}
