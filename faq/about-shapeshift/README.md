@@ -16,7 +16,7 @@ This sections most frequently used quick links are listed below, all of the sect
 
 A free open source platform to trade, track, buy, and earn. We are building a Community-owned, Private, Non-custodial and Multi-chain resource. Check it out [https://app.shapeshift.com/](https://app.shapeshift.com/)
 
-### DAO Initiative
+### Quick Article Links
 
 ShapeShift is a DAO find out more:
 
