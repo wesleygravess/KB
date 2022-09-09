@@ -48,6 +48,6 @@ Cosmos is an ever-expanding ecosystem of interconnected apps and services, built
 
 Avalanche is an open, programmable smart contracts platform for decentralized applications. Build fast, low cost, Solidity-compatible dApps. Launch customized blockchains, private & public. Scale to millions of validators with minimal hardware.
 
-\*Avalanche is supported on  ShapeShift only when connected to MetaMask currenrtly. Support for Native and other wallets coming soon.&#x20;
+\*Avalanche is supported on ShapeShift only when connected to MetaMask currently. Support for Native and other wallets coming soon.&#x20;
 
 {% embed url="https://www.avax.network/" %}

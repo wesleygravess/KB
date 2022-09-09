@@ -6,13 +6,13 @@ The process of executing a trade is completely autonomous and does not require a
 
 ![](<../../.gitbook/assets/image (13) (1).png>)
 
-#### How Does This Work On ShapeShift?
+### How Does This Work On ShapeShift?
 
 When you execute a trade with ShapeShift, you will see a field titled "Rate". Below your rate you will see whether or not 0x or [**THORChain**](https://erikvoorhees.medium.com/an-introduction-to-thorchain-for-bitcoiners-3f621bf0028e) was used for the swap.
 
 Depending on the token pair you select, the trade will be completed through THORChain\* or 0x\* (more DEX aggregators coming soon). This allows our users to have access to trading over 1,000 different crypto assets!
 
-ShapeShift has integrated THORChain, which provides the ability for cross-chain swaps! This includes BTC, LTC, and BUSD. Essentially this means you can swap non ERC20 tokens via DEX.\
+ShapeShift has integrated THORChain, which provides the ability for cross-chain swaps! This includes BTC, LTC, and DOGECOIN. Essentially this means you can swap non ERC20 tokens via DEX.\
 \
 **\*0x** is a DEX aggregator that enables the p2p exchange of assets on the Ethereum blockchain.
 
@@ -34,7 +34,7 @@ ShapeShift has integrated THORChain, which provides the ability for cross-chain 
 
 **3.** Failed orders must be validated on-chain, which can be costly.
 
-#### Popular DEXs
+### Popular DEXs
 
 [**UniSwap**](https://uniswap.org/)
 
@@ -44,13 +44,11 @@ ShapeShift has integrated THORChain, which provides the ability for cross-chain 
 
 [**AirSwap**](https://www.airswap.io/)
 
-#### Slippage
-
-
+### Slippage
 
 Slippage is neither a pro or con, but important nonetheless. Since market prices are constantly changing, your trade rate is likely to fluctuate. For example, by the time blocks confirm and your trade executes, the price in ETH may have gone up in price. This happens in the stock market as well as the crypto market. ShapeShift allows you to set the maximum amount of slippage for any trade you initiate. Simply select the highest percentage you will allow to account for market slippage.
 
-#### What Happens If My Trade Fails?
+### What Happens If My Trade Fails?
 
 Every order (as well as alteration and cancellation) is written to the blockchain. If the parameters are not met your trade will fail and the funds will be reverted to your wallet. Keep in mind that the miner fee that was initially paid is not returned in the case of a failed trade. The higher the miner fee and slippage % you set the less likely your trade is to fail. Since DEX's are decentralized this means no more contacting customer support and having to wait for a refund- as refunds should automatically process!
 

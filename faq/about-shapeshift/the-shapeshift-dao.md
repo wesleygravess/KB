@@ -2,7 +2,7 @@
 description: What does this mean?
 ---
 
-# The ShapeShift DAO
+# 🔮 The ShapeShift DAO
 
 ### The Seeds
 
@@ -22,36 +22,27 @@ Decentralization -  provides the possibility to allow a larger community to stee
 
 Learn about our DAO's specific structure [**here**](https://forum.shapeshift.com/t/shapeshift-organizational-structure/50).
 
-#### **FOX:**
+#### ****[**FOX**](https://medium.com/@ShapeShift.com/what-is-shapeshifts-fox-token-7fbec3bccbfc)**:**
 
-&#x20;This is ShapeShift's governance token. It is an ERC20 token. ERC20 tokens are a second layer protocol on the Ethereum blockchain. All ERC20 tokens require ETH to send them across the Ethereum blockchain.
+This is ShapeShift's governance token. It is an ERC20 token. ERC20 tokens are a second layer protocol on the Ethereum blockchain. All ERC20 tokens require ETH to send them across the Ethereum blockchain.
 
 #### **FOX Liquidity Providing:**&#x20;
 
-This is when you provide equal amounts of FOX and ETH to the UniSwap v2 FOX-ETH Liquidity pool. This gives that liquidity pool depth and lowers the [**price impact**](broken-reference) of swaps.
+This is when you provide equal amounts of FOX and ETH to the UniSwap v2 FOX-ETH Liquidity pool. This gives that liquidity pool depth and lowers the price impact of swaps.
 
 #### **FOX-ETH LP Tokens:**&#x20;
 
 When you provide liquidity, UniSwap sends you back a FOX-ETH LP tokens. Think of these as a coat check ticket that you give back to UniSwap when you want to remove your liquidity.
 
-**FOX Staking** - This is when you send your FOX-ETH LP Tokens to the FOX Staking Contract so you can earn additional FOX Token rewards.
+**FOX Staking:**
 
-**FOX Farming** - After you stake your FOX-ETH LP Tokens in the FOX Staking Contract, the FOX Token Rewards you earn is also know as Farming or Yield Farming.
+&#x20;This is when you send your FOX-ETH LP Tokens to the FOX Staking Contract so you can earn additional FOX Token rewards.
 
-Yieldies -&#x20;
+**FOX Farming:**
 
+After you stake your FOX-ETH LP Tokens in the FOX Staking Contract, the FOX Token Rewards you earn is also know as Farming or Yield Farming.
 
+**Yieldies:** &#x20;
 
-### Decentralized ShapeShift what does it mean&#x20;
+A Yieldy is an ERC20 rebasing token that is redeemable 1:1 with the underlying ERC20 asset.
 
-###
-
-### Governance
-
-###
-
-### Become Involved
-
-###
-
-### Important Links DAO links   &#x20;

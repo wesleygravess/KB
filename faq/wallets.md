@@ -32,7 +32,7 @@ Portis is a non-custodial blockchain wallet that helps you in storing your crypt
 
 ### TallyHo!
 
-Tally Ho is the first wallet owned by its users. TallyHo! is an alternative to MetaMask - Tally Ho makes it safe and easy to connect to DeFi and web3. It’s got everything you need from MetaMask, plus lots more to love
+TallyHo! is the first wallet owned by its users. TallyHo! is an alternative to MetaMask - Tally Ho makes it safe and easy to connect to DeFi and web3. It’s got everything you need from MetaMask, plus lots more to love
 
 {% embed url="https://tally.cash/" %}
 
