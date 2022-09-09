@@ -33,7 +33,7 @@
   * [🛡 Idle Finance](faq/protocols/idle-finance.md)
   * [🎁 Tokemak](faq/protocols/tokemak.md)
   * [🪙 Validators](faq/protocols/validators.md)
-* [👛 Wallets](faq/wallets/README.md)
+* [👛 Wallets](faq/wallets.md)
   * [🔐 KeepKey](faq/wallets/keepkey/README.md)
     * [⚒ KeepKey Set Up](faq/wallets/keepkey/keepkey-set-up.md)
     * [🎛 KeepKey Settings](faq/wallets/keepkey/keepkey-settings.md)

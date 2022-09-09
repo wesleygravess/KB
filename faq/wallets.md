@@ -20,7 +20,7 @@ MetaMask is a software cryptocurrency wallet used to interact with the Ethereum 
 
 ### KeepKep
 
-KeepKey is ShapeShift's Hardware wallet. Protect your cryptocurrencies, store your private keys offline, and safeguard your assets from hackers. It’s time to achieve financial freedom in the most secure way with KeepKey.
+[KeepKey](wallets/keepkey/) is ShapeShift's Hardware wallet. Protect your cryptocurrencies, store your private keys offline, and safeguard your assets from hackers. It’s time to achieve financial freedom in the most secure way with KeepKey.
 
 {% embed url="https://shapeshift.com/keepkey" %}
 
