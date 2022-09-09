@@ -36,4 +36,8 @@ ShapeShift is a DAO find out more:
 [what-are-your-terms-of-service.md](../general-inquiries/what-are-your-terms-of-service.md)
 {% endcontent-ref %}
 
+{% content-ref url="decentralization/contribute/important-links-when-interacting-with-the-shapeshift-dao.md" %}
+[important-links-when-interacting-with-the-shapeshift-dao.md](decentralization/contribute/important-links-when-interacting-with-the-shapeshift-dao.md)
+{% endcontent-ref %}
+
 Platforms

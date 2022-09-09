@@ -1,6 +1,0 @@
----
-description: Get Involved
----
-
-# 🔄 Contribute
-
