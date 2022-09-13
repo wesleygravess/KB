@@ -1,10 +1,10 @@
 # Table of contents
 
-* [🥳 Welcome!](README.md)
+* [🥳 FAQ's](README.md)
 
 ## 📙 FAQ
 
-* [🦊 About ShapeShift](faq/about-shapeshift/README.md)
+* [🦊 ShapeShift](faq/about-shapeshift/README.md)
   * [🔮 The ShapeShift DAO](faq/about-shapeshift/the-shapeshift-dao.md)
   * [🎨 ShapeShift Branding](faq/about-shapeshift/shapeshift-creative.md)
   * [🔄 Contribute](faq/about-shapeshift/decentralization/contribute/README.md)
